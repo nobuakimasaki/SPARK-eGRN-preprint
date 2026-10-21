@@ -1,0 +1,42 @@
+% Figure 1, panel F: the band between the model row and the output, how the one
+% becomes the other. It is drawn in the same frame as the panels either side of it,
+% so it takes a letter like them; leaving it unlettered had readers looking for one.
+%
+% The band writes out the joint posterior of the main paper, eq (joint_posterior),
+% and names each factor underneath. That is what makes the model row add up: the
+% four factors are the four things the row specifies, three of them drawn as panels
+% and the fourth the one panel C says is not drawn, so a reader can check the
+% figure against the equation and find nothing missing on either side.
+%
+% The Gibbs step for rho_k, which used to be the main flow of panel D, is left to
+% the caption. It is a consequence of the model rather than part of its
+% specification, and writing it out here made the band compete with the panels
+% either side of it for a reader's attention.
+%
+% The factors are separate nodes rather than one math box so that each name can be
+% centred under the factor it belongs to. The four right-hand factors sit on a
+% fixed 2.3 cm pitch rather than being chained end to end: the names are wider than
+% the factors they label (P(rho) is the narrowest factor and carries the longest
+% name), so spacing set by the factors runs the names into each other.
+% Local origin is the panel's top-left corner. Panel size 16.4 x 1.60.
+\draw[panel] (0,0) rectangle (16.4,-1.60);
+\node[ttl] at (0.15,-0.12) {F\quad Joint model};
+
+\begin{scope}[every node/.append style={inner sep=1pt}]
+  \node[sub] (jpost) at (3.35,-0.82)
+    {$P(\mathcal{D}, \Theta, \boldsymbol{\rho} \mid \mathcal{Y})$};
+  \node[sub] (jprop) at (4.75,-0.82) {$\propto$};
+  \node[sub] (jlik)  at (6.30,-0.82) {$P(\mathcal{Y} \mid \mathcal{D}, \Theta)$};
+  \node[sub] (jpar)  at (8.60,-0.82) {$P(\Theta \mid \mathcal{D})$};
+  \node[sub] (jgp)   at (10.90,-0.82) {$P(\mathcal{D} \mid \boldsymbol{\rho})$};
+  % Shifted out from the 2.3 cm pitch to 2.5: its name is the longest in the band
+  % even broken over two lines, and at 13.20 the wider line met "graph prior (D)".
+  \node[sub] (jrp)   at (13.40,-0.82) {$P(\boldsymbol{\rho})$};
+
+  \node[note, text=black!55, below=1.5pt of jpost] {posterior};
+  \node[note, text=black!55, below=1.5pt of jlik]  {likelihood (C)};
+  \node[note, text=black!55, below=1.5pt of jpar]  {parameter priors};
+  \node[note, text=black!55, below=1.5pt of jgp]   {graph prior (D)};
+  \node[note, text=black!55, below=1.5pt of jrp, align=center]
+    {class edge\\probability prior (E)};
+\end{scope}

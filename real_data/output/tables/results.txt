@@ -1,0 +1,33 @@
+Topological prior
+  ordered pairs: 141,752
+  label -1 (forbidden): 123,945
+  label  0 (baseline): 15,785
+  label  1 (ChIP-Atlas): 207
+  label  2 (JASPAR2024 CORE): 1,747
+  label  3 (linear proximity): 17
+  label  4 (PCHi-C): 51
+  permitted pairs: 17,807; supported by a prior source: 2,022 (11%)
+  TFs with ChIP-Atlas pairs: EGR1, EGR2, PPARG; EGR1 180, EGR2 10, PPARG 17
+
+Inferred network (PIP >= 0.5)
+  edges: 605; supported by a prior source: 134 (22%)
+  TF -> enhancer: 553 over 46 TFs; negative 415 (75.0%)
+  enhancer -> gene: 52; positive 36
+  share negative, TF -> enhancer supported 74.5% vs unsupported 75.2%
+  top 3 TFs by outgoing edges: AFF3 133, NFIA 119, PPARG 87 (61.3% of TF -> enhancer edges)
+  AFF3: 133 edges, 0 supported (0.0%), 89.5% negative
+  NFIA: 119 edges, 42 supported (35.3%), 79.0% negative
+  PPARG: 87 edges, 14 supported (16.1%), 80.5% negative
+  MEF2A: 8 edges, 5 supported (62.5%), 25.0% negative
+  EGR1: 6 edges, 4 supported (66.7%), 100.0% negative
+
+Class edge probabilities (posterior median [95% CrI], S = 225,000 draws)
+  rho_0 (baseline): 0.07 [0.06, 0.07]
+  rho_1 (ChIP-Atlas): 0.07 [0.03, 0.12]
+  rho_2 (JASPAR2024 CORE): 0.09 [0.07, 0.12]
+  rho_3 (linear proximity): 0.72 [0.45, 0.94]
+  rho_4 (PCHi-C): 0.57 [0.40, 0.75]
+
+immGWAS enhancers (14)
+  TFs regulating >= 1 immGWAS enhancer: 12 of 57; AFF3 6, NFIA 5, PPARG 5
+  immGWAS enhancer -> target edges: 5 (targets: TPRG1, IL1A, CD274, ADO, IL36B)

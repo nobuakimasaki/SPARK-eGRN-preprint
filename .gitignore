@@ -1,0 +1,28 @@
+# MCMC output of the real-data run (6.5 GB, over GitHub's file size limits even with
+# Git LFS). Not committed for now; see data/real_data/mcmc/.
+data/real_data/mcmc/
+
+# MCMC output of the simulation study (40 files, ~105 MB each). Set up for Git LFS
+# (.gitattributes) but not committed for now: uploads to GitHub's LFS storage fail
+# from our network.
+data/simulation/mcmc/*.pkl.zst
+
+# LaTeX build files
+paper/*.aux
+paper/*.bbl
+paper/*.bcf
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.out
+paper/*.run.xml
+paper/*.toc
+
+# Python and macOS clutter
+__pycache__/
+.DS_Store
+
+# Paper sources (kept locally, not published)
+paper/*
+!paper/figures/

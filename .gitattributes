@@ -1,0 +1,2 @@
+# MCMC output of the simulation study (40 files, ~105 MB each), tracked with Git LFS.
+data/simulation/mcmc/*.pkl.zst filter=lfs diff=lfs merge=lfs -text

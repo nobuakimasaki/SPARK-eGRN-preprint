@@ -1,0 +1,14 @@
+Topological prior (chr2 subset)
+  nodes: 51 (enhancer 41, TF 5, gene 5)
+  permitted pairs: 302; class 1: 21, class 2: 13, class 0: 268
+
+DAG 7, non-informative setting
+  true edges 23, called 22, correct 13; precision 0.59, recall 0.57, PR-AUC 0.742
+
+Mean PR-AUC over the ten DAGs (+/- SE)
+  Expert-elicited: 0.716 +/- 0.017
+  Non-informative: 0.704 +/- 0.021
+  Strongly informative, misspecified: 0.664 +/- 0.018
+  Single class: 0.619 +/- 0.022
+  DAG0: 0.606 +/- 0.021
+  Regularized regression: 0.492 +/- 0.024

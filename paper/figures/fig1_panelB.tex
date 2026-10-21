@@ -1,0 +1,118 @@
+% Figure 1, panel B: the topological prior. The matrix uses the same node order
+% as panel A (TFs, genes, enhancers) and the same forbidden-is-white convention as
+% Figure 2A, with block rules added so the two evidence-bearing blocks are visible.
+% The sources are numbered rather than named, because the method takes any number
+% of them and naming the four this analysis happens to use makes the panel look
+% like a description of one dataset. Which direction a source supports is carried
+% by the two groups and their cartoons, not by the colours: four separate hues,
+% since shades of one hue would read as a quantitative scale over the sources.
+% Local origin is the panel's top-left corner. Panel size 10.8 x 4.8.
+\draw[panel] (0,0) rectangle (10.8,-4.8);
+\node[ttl] at (0.15,-0.12) {B\quad Prior evidence labels every ordered pair};
+
+% Shift measured with the frame and the panel letter excluded, so the
+% drawing sits centred in the space below the letter rather than wherever
+% its coordinates happened to put it.
+\begin{scope}[shift={(+0.357,-0.195)}]  % centre the panel contents
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Left: the four sources, grouped by the direction each one supports
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{scope}[shift={(0.30,-1.20)}]
+  \node[sub, anchor=north west] at (0,0) {Evidence for TF $\to$ enhancer};
+  % a transcription factor on an accessible stretch of DNA
+  \draw[black!45, line width=0.5pt] (0.10,-0.66) -- (1.40,-0.66);
+  \draw[black!45, line width=0.5pt] (0.10,-0.74) -- (1.40,-0.74);
+  \fill[nodeTF!70] (0.68,-0.54) ellipse (0.18 and 0.12);
+  \draw[fill=clsSrc1, draw=black!30, line width=0.3pt] (1.72,-0.40) rectangle ++(0.20,-0.20);
+  \node[note, anchor=west] at (1.99,-0.50) {evidence source 1};
+  \draw[fill=clsSrc2, draw=black!30, line width=0.3pt] (1.72,-0.76) rectangle ++(0.20,-0.20);
+  \node[note, anchor=west] at (1.99,-0.86) {evidence source 2};
+
+  \node[sub, anchor=north west] at (0,-1.30) {Evidence for enhancer $\to$ gene};
+  % an enhancer contacting a promoter
+  \draw[black!45, line width=0.5pt] (0.10,-2.00) -- (1.40,-2.00);
+  \fill[nodeEnh] (0.42,-2.00) circle (0.055);
+  \fill[nodeGene] (1.12,-2.00) circle (0.055);
+  \draw[black!45, line width=0.5pt]
+    (0.42,-2.00) .. controls (0.58,-1.62) and (0.96,-1.62) .. (1.12,-2.00);
+  \draw[fill=clsSrc3, draw=black!30, line width=0.3pt] (1.72,-1.64) rectangle ++(0.20,-0.20);
+  \node[note, anchor=west] at (1.99,-1.74) {evidence source 3};
+  \draw[fill=clsSrc4, draw=black!30, line width=0.3pt] (1.72,-2.00) rectangle ++(0.20,-0.20);
+  \node[note, anchor=west] at (1.99,-2.10) {evidence source 4};
+\end{scope}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Right: the topological prior as a labelled matrix
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{scope}[shift={(5.55,-1.42)}]
+  \def\s{0.27}
+  \node[sub, anchor=south west] at (-0.32,0.44) {Topological prior $\mathcal{T}$};
+
+  % Permitted pairs and the class each one carries. The whole TF-to-enhancer block
+  % is permitted: a TF may bind any enhancer, so nothing there is forbidden. The
+  % enhancer-to-gene and enhancer-to-TF blocks do carry forbidden pairs, since an
+  % enhancer too far from a gene cannot act on it.
+  \def\permitted{%
+    % TF -> enhancer, the full block
+    1/7/clsSrc1,  1/8/clsBase,  1/9/clsBase,
+    2/7/clsBase,  2/8/clsSrc2,  2/9/clsBase,
+    3/7/clsBase,  3/8/clsBase,  3/9/clsSrc1,
+    % enhancer -> TF gene
+    7/1/clsSrc4,  7/3/clsBase,  8/1/clsBase,  8/2/clsSrc3, 9/2/clsBase, 9/3/clsSrc4,
+    % enhancer -> downstream gene
+    7/4/clsSrc3,  7/5/clsBase,  8/4/clsBase,  8/5/clsSrc4, 8/6/clsBase,
+    9/5/clsBase,  9/6/clsSrc3}
+
+  % every cell starts forbidden: white, and crossed, so that a blank cell is not
+  % the only thing marking a pair no edge may occupy
+  \foreach \r in {1,...,9}{
+    \foreach \c in {1,...,9}{
+      \draw[fill=clsForb, draw=black!15, line width=0.25pt]
+        ({(\c-1)*\s},{-(\r-1)*\s}) rectangle ++(\s,-\s);
+      \draw[black!22, line width=0.25pt]
+        ({(\c-1)*\s+0.055},{-(\r-1)*\s-0.055})
+          -- ({\c*\s-0.055},{-\r*\s+0.055});
+      \draw[black!22, line width=0.25pt]
+        ({(\c-1)*\s+0.055},{-\r*\s+0.055})
+          -- ({\c*\s-0.055},{-(\r-1)*\s-0.055});
+    }
+  }
+  \foreach \r/\c/\col in \permitted{
+    \draw[fill=\col, draw=black!15, line width=0.25pt]
+      ({(\c-1)*\s},{-(\r-1)*\s}) rectangle ++(\s,-\s);
+  }
+
+  % block rules, so the two evidence-bearing blocks read as blocks
+  \foreach \i in {3,6}{
+    \draw[black!45, line width=0.55pt] ({\i*\s},0) -- ({\i*\s},{-9*\s});
+    \draw[black!45, line width=0.55pt] (0,{-\i*\s}) -- ({9*\s},{-\i*\s});
+  }
+  \draw[black!45, line width=0.55pt] (0,0) rectangle ({9*\s},{-9*\s});
+
+  % node-type bands on both axes, matching panel A; the left bands are unlabelled
+  % because their colours already name the groups
+  \foreach \a/\b/\col/\lab in {1/3/nodeTF/TFs, 4/6/nodeGene/genes, 7/9/nodeEnh/enh.}{
+    \draw[fill=\col!75, draw=none]
+      ({(\a-1)*\s+0.02},0.07) rectangle ({\b*\s-0.02},0.15);
+    \node[note, anchor=south] at ({(\a+\b-1)*\s/2},0.16) {\lab};
+    \draw[fill=\col!75, draw=none]
+      (-0.15,{-(\a-1)*\s-0.02}) rectangle (-0.07,{-\b*\s+0.02});
+  }
+  \node[note, anchor=north] at ({4.5*\s},{-9*\s-0.10}) {target $j$};
+  \node[note, rotate=90, anchor=south] at (-0.34,{-4.5*\s}) {source $i$};
+\end{scope}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Legend for the two labels that are not evidence sources
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{scope}[shift={(8.35,-1.50)}]
+  \draw[fill=clsBase, draw=black!30, line width=0.3pt] (0,0) rectangle ++(0.20,-0.20);
+  \node[note, anchor=west] at (0.28,-0.10) {no evidence};
+  \draw[fill=clsForb, draw=black!30, line width=0.3pt] (0,-0.52) rectangle ++(0.20,-0.20);
+  \draw[black!55, line width=0.3pt] (0.04,-0.56) -- (0.16,-0.68);
+  \draw[black!55, line width=0.3pt] (0.04,-0.68) -- (0.16,-0.56);
+  \node[note, anchor=west] at (0.28,-0.62) {forbidden};
+\end{scope}
+\end{scope}

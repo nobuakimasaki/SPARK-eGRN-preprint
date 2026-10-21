@@ -1,0 +1,13 @@
+# Environment for the SPARK sampler (spark/), with the versions the paper's MCMC runs
+# used. Everything else in the repository uses environment-analysis.yml.
+name: spark
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=2.2.6
+  - scipy=1.15.2
+  - numba=0.63.1
+  - pandas=2.3.3
+  - tqdm=4.67.3
+  - zstandard=0.25.0      # compressed sampler output (--compress, .pkl.zst)

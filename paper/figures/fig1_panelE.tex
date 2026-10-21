@@ -1,0 +1,62 @@
+% Figure 1, panel E: the priors on the class edge probabilities. One Beta per evidence
+% class, drawn in the class colour, on the same 0-to-1 axis that panel F's rho
+% violins use, so the figure carries the prior and the posterior of the same
+% quantity in the same colours and the reader can compare them across the page.
+%
+% The shapes are illustrative and the panel says so. The elicited (a_k, b_k) live
+% in the Supplementary Materials and are still unsettled for the baseline class,
+% so committing the figure to particular curves would be a claim the paper does
+% not yet make. What the curves do assert is only the qualitative ordering the
+% elicitation rests on: the baseline class, whose pairs no source supports, is
+% believed sparser than the classes that do carry evidence.
+%
+% Each curve is written as its height times a product of ratios to the modal
+% value, for the same reason panel D's posterior was: a direct x^a (1-x)^b sends
+% pgfmath's fixed-point arithmetic through intermediates small enough to quantize
+% the curve visibly. Heights are the true relative peak densities, computed once
+% and scaled so the tallest curve is 1.5 cm, so a concentrated prior really does
+% draw taller and narrower than a diffuse one.
+%   baseline Beta(2,12)  src1 Beta(3,8)  src2 Beta(4,7)  src3 Beta(6,6)  src4 Beta(8,5)
+% Local origin is the panel's top-left corner. Panel size 5.25 x 4.35.
+\draw[panel] (0,0) rectangle (5.25,-4.35);
+% Two lines: set on one, the title runs about 5.9 cm and overflows the 5.25 cm
+% panel. The subtitle drops by the extra line so the two do not collide.
+\node[ttl, align=left] at (0.15,-0.12) {E\quad Class edge\\probability prior};
+
+\node[sub, anchor=north, align=center] at (2.625,-0.92)
+  {$\mathrm{Beta}(a_k, b_k)$ density, one per class};
+
+% the densities, over rho in [0,1] mapped to 3.80 cm, baseline at y = 0
+\begin{scope}[shift={(0.72,-2.65)}]
+  % Curves drawn at 0.8 of their computed height to leave room for the formula.
+  \begin{scope}[yscale=0.8]
+  % the baseline is a pale grey, so it carries a heavier stroke than the saturated
+  % hues to read at the same weight, the same trade panel F makes with opacity
+  \draw[clsBase, line width=1.1pt] plot[domain=0.004:0.996, samples=90, smooth]
+    ({\x*3.80}, {1.5000*pow(\x/0.083333,1)*pow((1-\x)/0.916667,11)});
+  \draw[clsSrc1, line width=0.8pt] plot[domain=0.004:0.996, samples=90, smooth]
+    ({\x*3.80}, {0.9198*pow(\x/0.222222,2)*pow((1-\x)/0.777778,7)});
+  \draw[clsSrc2, line width=0.8pt] plot[domain=0.004:0.996, samples=90, smooth]
+    ({\x*3.80}, {0.8207*pow(\x/0.333333,3)*pow((1-\x)/0.666667,6)});
+  \draw[clsSrc3, line width=0.8pt] plot[domain=0.004:0.996, samples=90, smooth]
+    ({\x*3.80}, {0.8134*pow(\x/0.500000,5)*pow((1-\x)/0.500000,5)});
+  \draw[clsSrc4, line width=0.8pt] plot[domain=0.004:0.996, samples=90, smooth]
+    ({\x*3.80}, {0.8793*pow(\x/0.636364,7)*pow((1-\x)/0.363636,4)});
+  \end{scope}
+
+  \draw[black!45, line width=0.5pt] (0,0) -- (3.80,0);
+  \foreach \x/\lab in {0/{$0$}, 1.90/{$0.5$}, 3.80/{$1$}}{
+    \draw[black!45, line width=0.5pt] (\x,0) -- (\x,-0.08);
+    \node[note, anchor=north] at (\x,-0.10) {\lab};
+  }
+  \node[note, anchor=north] at (1.90,-0.32) {edge probability $\rho_k$ of class $k$};
+\end{scope}
+
+% The prior itself, main-paper eq (rho_prior). The curves above are only its Beta
+% factors, so the acyclicity term is written out here. Set on two lines, as in
+% panel D: on one it runs wider than the 5.25 cm panel.
+\node[anchor=north, inner sep=0pt] at (2.625,-3.30) {\scriptsize $
+  \begin{aligned}
+    P(\boldsymbol{\rho}) &\propto P(\text{acyclic} \mid \boldsymbol{\rho})\\[1pt]
+    &\times \textstyle\prod_{k} \mathrm{Beta}(\rho_k;\, a_k, b_k)
+  \end{aligned}$};

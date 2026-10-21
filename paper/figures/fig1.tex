@@ -1,0 +1,58 @@
+% Figure 1: overview of SPARK. Drawn as one tikzpicture so every panel shares a
+% coordinate system and a style set; each panel file draws relative to its own
+% top-left corner and is placed by the shift below.
+%
+% The grid is 16.4 cm wide, matching \textwidth for letterpaper at 25 mm margins.
+% It reads as three bands, input then model then output:
+%   row 1  A data                 |  B topological prior
+%   row 2  C likelihood  |  D graph prior  |  E class edge probability priors
+%   band   F MCMC
+%   row 3  G what SPARK returns
+% The columns carry the conditioning: A sits above C, the panel the data enter,
+% and B spans D and E, the two panels indexed by the classes B defines.
+%
+% Requires tikz with the positioning, arrows.meta, calc and fit libraries, and the
+% evidence-class and node-type colours defined in the preamble of paper_draft.tex.
+\begin{tikzpicture}[
+  font=\scriptsize,
+  >={Stealth[length=1.6mm]},
+  panel/.style={draw=black!15, rounded corners=2pt, fill=black!2},
+  ttl/.style={font=\footnotesize\bfseries, anchor=north west, inner sep=0pt},
+  sub/.style={font=\scriptsize, inner sep=1pt},
+  note/.style={font=\tiny, inner sep=1pt},
+  loop/.style={->, black!50, line width=0.8pt},
+  jn/.style={circle, draw=black!50, fill=white, line width=0.7pt,
+             minimum size=3.2mm, inner sep=0pt, font=\tiny},
+  vnode/.style={circle, draw=black!45, minimum size=5.6mm, inner sep=0pt,
+                font=\tiny, fill=white},
+  eqbox/.style={draw=black!15, rounded corners=2pt, fill=white, inner sep=4pt},
+  band/.style={font=\scriptsize\bfseries, text=black!50, rotate=90, inner sep=0pt},
+]
+
+\begin{scope}[shift={(0,0)}]        \input{figures/fig1_panelA} \end{scope}
+\begin{scope}[shift={(5.6,0)}]      \input{figures/fig1_panelB} \end{scope}
+\begin{scope}[shift={(0,-5.1)}]     \input{figures/fig1_panelC} \end{scope}
+\begin{scope}[shift={(5.6,-5.1)}]   \input{figures/fig1_panelD} \end{scope}
+\begin{scope}[shift={(11.15,-5.1)}] \input{figures/fig1_panelE} \end{scope}
+\begin{scope}[shift={(0,-9.75)}]    \input{figures/fig1_panelF} \end{scope}
+\begin{scope}[shift={(0,-11.65)}]   \input{figures/fig1_panelG} \end{scope}
+
+% model -> MCMC -> output
+\draw[loop] (8.2,-9.45) -- (8.2,-9.72);
+\draw[loop] (8.2,-11.35) -- (8.2,-11.62);
+
+% What each band is, in a gutter to the left of the grid. The gutter sits outside
+% the 16.4 cm the panels occupy rather than taking width from them: the figure is
+% placed by \resizebox to a fixed fraction of \textwidth, so a wider drawing is
+% scaled down rather than made to overflow, and none of the panels has to be
+% re-laid-out to make room. Each band's extent is drawn as a rule beside its name.
+\foreach \yt/\yb/\lab in {%
+    0/-4.8/{Input},
+    -5.1/-9.45/{Model},
+    -9.75/-11.35/{Inference},
+    -11.65/-18.0/{Output}}{
+  \draw[black!20, line width=0.6pt] (-0.52,\yt) -- (-0.52,\yb);
+  \node[band] at (-0.26,{0.5*(\yt+\yb)}) {\lab};
+}
+
+\end{tikzpicture}

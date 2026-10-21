@@ -1,0 +1,1809 @@
+study,trait_id,trait_label
+GCST000440,MONDO_0002714,central nervous system cancer
+GCST000463,MONDO_0004967,acute lymphoblastic leukemia
+GCST000507,MONDO_0007915,systemic lupus erythematosus
+GCST000612,MONDO_0005130,celiac disease
+GCST001149,MONDO_0005306,ankylosing spondylitis
+GCST001212,EFO_0004467,insulin measurement
+GCST001227,EFO_0006335,systolic blood pressure
+GCST001391,EFO_0004725,metabolite measurement
+GCST001505,MONDO_0005301,multiple sclerosis
+GCST001533,EFO_0004645,response to vaccine
+GCST001533,EFO_0004873,cytokine measurement
+GCST001690,MONDO_0005628,male breast carcinoma
+GCST001712,EFO_0004207,pathological myopia
+GCST001725,MONDO_0005265,inflammatory bowel disease
+GCST001765_5,OBA_2045276,erythrocyte attribute
+GCST001848,EFO_0005193,serum IgG glycosylation measurement
+GCST001915,MONDO_0004975,Alzheimer disease
+GCST002217,MONDO_0010030,Sjogren syndrome
+GCST002299,MONDO_0004948,B-cell chronic lymphocytic leukemia
+GCST002315,EFO_0005538,thrombin generation potential measurement
+GCST002318,MONDO_0008383,rheumatoid arthritis
+GCST002331,MONDO_0020804,basal cell carcinoma
+GCST002601,EFO_0006309,plasma plasminogen measurement
+GCST002759,EFO_0006928,motion sickness
+GCST002810,MONDO_0018076,tuberculosis
+GCST002957,EFO_0007015,3-hydroxy-1-methylpropylmercapturic acid measurement
+GCST003123,EFO_1001488,influenza A (H1N1)
+GCST003268,EFO_1001494,psoriasis vulgaris
+GCST003427,OBA_2001000,age of onset of Alzheimer disease
+GCST003588,MONDO_0005061,lung adenocarcinoma
+GCST003588,MONDO_0005097,squamous cell lung carcinoma
+GCST003588,EFO_1001515,ovarian endometrioid carcinoma
+GCST003588,MONDO_0005159,prostate carcinoma
+GCST003588,MONDO_0006513,estrogen-receptor negative breast cancer
+GCST003588,MONDO_0005575,colorectal cancer
+GCST003588,MONDO_0005140,ovarian carcinoma
+GCST003588,EFO_1001516,ovarian serous carcinoma
+GCST003588,MONDO_0005138,lung carcinoma
+GCST003588,MONDO_0004989,breast carcinoma
+GCST003588,MONDO_0004992,cancer
+GCST003622,MONDO_0007915,systemic lupus erythematosus
+GCST003720,MONDO_0005277,migraine disorder
+GCST003872,EFO_0007742,QRS amplitude
+GCST003872,EFO_0005054,QRS complex
+GCST003972,EFO_0004767,visceral:subcutaneous adipose tissue ratio
+GCST003986,MONDO_0005277,migraine disorder
+GCST004008,EFO_0004305,erythrocyte count
+GCST004009,MONDO_0005124,leprosy
+GCST004028,MONDO_0019438,AL amyloidosis
+GCST004063,EFO_0007789,BMI-adjusted waist circumference
+GCST004065,OBA_1001085,waist circumference
+GCST004067,EFO_0008039,BMI-adjusted hip circumference
+GCST004131,MONDO_0005265,inflammatory bowel disease
+GCST004132,MONDO_0005011,Crohn disease
+GCST004137,OBA_2045265,optic cup area
+GCST004185,EFO_0004713,FEV/FVC ratio
+GCST004232,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST004233,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST004348,MONDO_0002714,central nervous system cancer
+GCST004348,MONDO_0021042,glioma
+GCST004599,OBA_0003277,platelet volume
+GCST004602,OBA_0003460,erythrocyte volume
+GCST004603,EFO_0004309,platelet count
+GCST004606,EFO_0004842,eosinophil count
+GCST004607,EFO_0007985,platelet crit
+GCST004608,EFO_0007997,granulocyte percentage of myeloid white cells
+GCST004609,EFO_0007989,monocyte percentage of leukocytes
+GCST004611,EFO_0007986,reticulocyte count
+GCST004612,EFO_0007986,reticulocyte count
+GCST004613,EFO_0009390,sum of neutrophil and eosinophil counts
+GCST004614,EFO_0007987,granulocyte count
+GCST004616,EFO_0007984,platelet component distribution width
+GCST004617,EFO_0007996,eosinophil percentage of granulocytes
+GCST004619,EFO_0007986,reticulocyte count
+GCST004621,EFO_0009188,Red cell distribution width
+GCST004622,EFO_0007986,reticulocyte count
+GCST004623,EFO_0007994,neutrophil percentage of granulocytes
+GCST004624,EFO_0009389,sum of eosinophil and basophil counts
+GCST004625,EFO_0005091,monocyte count
+GCST004628,EFO_0007986,reticulocyte count
+GCST004630,EFO_0004527,mean corpuscular hemoglobin
+GCST004632,EFO_0007993,lymphocyte percentage of leukocytes
+GCST004633,EFO_0007990,neutrophil percentage of leukocytes
+GCST004988,MONDO_0004989,breast carcinoma
+GCST005116,MONDO_0005339,androgenetic alopecia
+GCST005192,EFO_0007667,lobe attachment
+GCST005194,MONDO_0005010,coronary artery disorder
+GCST005196,MONDO_0005010,coronary artery disorder
+GCST005523,MONDO_0005130,celiac disease
+GCST005531,MONDO_0005301,multiple sclerosis
+GCST005537,MONDO_0005306,ankylosing spondylitis
+GCST005537,MONDO_0005083,psoriasis
+GCST005537,MONDO_0005101,ulcerative colitis
+GCST005537,MONDO_0005011,Crohn disease
+GCST005537,MONDO_0018646,sclerosing cholangitis
+GCST005752,MONDO_0007915,systemic lupus erythematosus
+GCST005863,EFO_0004704,age at menopause
+GCST005896,EFO_0009260,non-melanoma skin carcinoma
+GCST005975,EFO_0004842,eosinophil count
+GCST005984,OBA_0003747,glomerular filtration rate
+GCST005991,EFO_0004309,platelet count
+GCST005992,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST005993,EFO_0004527,mean corpuscular hemoglobin
+GCST005998,OBA_2050062,serum alanine aminotransferase amount
+GCST006011,OBA_0003460,erythrocyte volume
+GCST006013,EFO_0004808,L lactate dehydrogenase measurement
+GCST006014,EFO_0004534,creatine kinase measurement
+GCST006019,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST006034,EFO_0004574,total cholesterol measurement
+GCST006061,MONDO_0004981,atrial fibrillation
+GCST006193,EFO_0006527,smoking status measurement
+GCST006193,EFO_0006336,diastolic blood pressure
+GCST006250,EFO_0004337,intelligence
+GCST006269,EFO_0004337,intelligence
+GCST006287,MONDO_0005488,adolescent idiopathic scoliosis
+GCST006412,EFO_0004695,intraocular pressure measurement
+GCST006433,EFO_0009270,heel bone mineral density
+GCST006442,EFO_0004784,self reported educational attainment
+GCST006478,EFO_0009589,worry measurement
+GCST006482,EFO_0004713,FEV/FVC ratio
+GCST006568,EFO_0004875,mathematical ability
+GCST006569,EFO_0004875,mathematical ability
+GCST006571,EFO_0004784,self reported educational attainment
+GCST006585,OBA_VT0005416,blood protein amount
+GCST006613,EFO_0004530,triglyceride measurement
+GCST006614,EFO_0004574,total cholesterol measurement
+GCST006624,EFO_0006335,systolic blood pressure
+GCST006627,EFO_0006336,diastolic blood pressure
+GCST006628,EFO_0006335,systolic blood pressure
+GCST006660,EFO_0022599,DNA methylation
+GCST006870,OBA_2045244,hippocampal formation volume
+GCST006976,OBA_2045216,macula attribute
+GCST006984,MONDO_0017991,Takayasu arteritis
+GCST006988,EFO_0003924,hair color
+GCST007020,EFO_0007825,balding measurement
+GCST007037,EFO_0004784,self reported educational attainment
+GCST007039,EFO_0004340,body mass index
+GCST007064,EFO_0007800,body fat percentage
+GCST007065,EFO_0004842,eosinophil count
+GCST007066,EFO_0009270,heel bone mineral density
+GCST007067,EFO_0004343,waist-hip ratio
+GCST007068,EFO_0004527,mean corpuscular hemoglobin
+GCST007074,EFO_0009188,Red cell distribution width
+GCST007075,HP_0000964,Eczematoid dermatitis
+GCST007079,EFO_0004704,age at menopause
+GCST007080,EFO_0004713,FEV/FVC ratio
+GCST007081,EFO_0004312,vital capacity
+GCST007082,OBA_0002313,strand of hair color
+GCST007093,MONDO_0005178,osteoarthritis
+GCST007096,EFO_0005763,pulse pressure measurement
+GCST007099,EFO_0006335,systolic blood pressure
+GCST007269,EFO_0005763,pulse pressure measurement
+GCST007305,EFO_0005665,white matter hyperintensity measurement
+GCST007325,EFO_0008579,risk-taking behaviour
+GCST007327,EFO_0004318,smoking behavior
+GCST007339,EFO_0007660,neuroticism measurement
+GCST007342,MONDO_0002009,major depressive disorder
+GCST007354,MONDO_0005291,brain aneurysm
+GCST007429,EFO_0004312,vital capacity
+GCST007430,EFO_0009718,peak expiratory flow
+GCST007431,EFO_0004713,FEV/FVC ratio
+GCST007432,EFO_0004314,forced expiratory volume
+GCST007462,EFO_0005670,smoking initiation
+GCST007468,EFO_0006527,smoking status measurement
+GCST007500,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST007563,MONDO_0004979,asthma
+GCST007563,MONDO_0005271,allergic disease
+GCST007576,EFO_0008328,chronotype measurement
+GCST007800,MONDO_0005405,childhood onset asthma
+GCST007876,OBA_0003747,glomerular filtration rate
+GCST007929,EFO_0009930,Calcium channel blocker use measurement
+GCST007932,EFO_0009933,Thyroid preparation use measurement
+GCST007983,EFO_0008328,chronotype measurement
+GCST007986,EFO_0008328,chronotype measurement
+GCST007988,EFO_0007876,insomnia measurement
+GCST007995,MONDO_0005405,childhood onset asthma
+GCST008039,EFO_0004309,platelet count
+GCST008062,OBA_VT0005265,blood urea nitrogen amount
+GCST008078,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST008078,OBA_1000840,alcohol consumption quality
+GCST008084,EFO_0004329,alcohol drinking
+GCST008084,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST008108,EFO_0004999,N-glycan measurement
+GCST008363,EFO_0004344,birth weight
+GCST008363,EFO_0005939,parental genotype effect measurement
+GCST008733,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST008744,OBA_2045224,visceral adipose tissue quantity
+GCST008758,EFO_0010125,viral load
+GCST008871,MONDO_0020804,basal cell carcinoma
+GCST008872,MONDO_0005096,squamous cell carcinoma
+GCST008995,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST008996,EFO_0004343,waist-hip ratio
+GCST008998,EFO_0004343,waist-hip ratio
+GCST009004,EFO_0004340,body mass index
+GCST009030,MONDO_0005399,venous thromboembolism
+GCST009107,EFO_0004340,body mass index
+GCST009151,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST009509,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST009540,EFO_0005674,white matter microstructure measurement
+GCST009577,EFO_0004980,appendicular lean mass
+GCST009597,MONDO_0005301,multiple sclerosis
+GCST009638,MONDO_0004947,B-cell acute lymphoblastic leukemia
+GCST009652,EFO_0004533,alkaline phosphatase measurement
+GCST009716,MONDO_0004979,asthma
+GCST009716,HP_0000964,Eczematoid dermatitis
+GCST009716,MONDO_0011786,allergic rhinitis
+GCST009718,HP_0000964,Eczematoid dermatitis
+GCST009731_13,OBA_VT0005416,blood protein amount
+GCST009731_49,OBA_VT0005416,blood protein amount
+GCST009777,EFO_0004458,C-reactive protein measurement
+GCST009799,EFO_0004329,alcohol drinking
+GCST009867,EFO_0007789,BMI-adjusted waist circumference
+GCST009871,EFO_0004340,body mass index
+GCST009895,MONDO_0005192,exocrine pancreatic carcinoma
+GCST010002,HP_0000539,Abnormality of refraction
+GCST010042,MONDO_0004979,asthma
+GCST010043,MONDO_0004979,asthma
+GCST010083,EFO_0004509,hemoglobin measurement
+GCST010118,MONDO_0005148,type 2 diabetes mellitus
+GCST010141,EFO_0008111,diet measurement
+GCST010196,EFO_0004747,protein measurement
+GCST010206,MONDO_0019938,anorectal malformation
+GCST010241,EFO_0004614,apolipoprotein A 1 measurement
+GCST010242,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST010244,EFO_0004530,triglyceride measurement
+GCST010303,MONDO_0005012,cutaneous melanoma
+GCST010303,EFO_0004632,nevus count
+GCST010304,MONDO_0005012,cutaneous melanoma
+GCST010307,EFO_0004285,albuminuria
+GCST010320,EFO_0004462,PR interval
+GCST010321,EFO_0004462,PR interval
+GCST010343,EFO_0006797,neurofibrillary tangles measurement
+GCST010378,MONDO_0004892,refractive error
+GCST010476,MONDO_0005068,myocardial infarction
+GCST010543,OBA_1000840,alcohol consumption quality
+GCST010555,MONDO_0005148,type 2 diabetes mellitus
+GCST010557,MONDO_0005148,type 2 diabetes mellitus
+GCST010637,EFO_0004531,urate measurement
+GCST010642,EFO_0007006,depressive symptom measurement
+GCST010658,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST010701,OBA_2045267,cerebral cortex area attribute
+GCST010701,EFO_0004346,neuroimaging measurement
+GCST010702,OBA_2050009,brain volume
+GCST010702,EFO_0004346,neuroimaging measurement
+GCST010776,MONDO_0100096,COVID-19
+GCST010867,MONDO_0005010,coronary artery disorder
+GCST010956,MONDO_0004950,gastric carcinoma
+GCST010984,MONDO_0005271,allergic disease
+GCST011004,MONDO_0021042,glioma
+GCST011010,EFO_0004327,electrocardiography
+GCST011011,OBA_0005494,aging rate
+GCST011049,MONDO_0005159,prostate carcinoma
+GCST011054,MONDO_0015263,Brugada syndrome
+GCST011096,MONDO_0007915,systemic lupus erythematosus
+GCST011119,EFO_0004531,urate measurement
+GCST011124,EFO_0010091,tea consumption measurement
+GCST011351,EFO_0004736,aspartate aminotransferase measurement
+GCST011427,EFO_0004747,protein measurement
+GCST011494,EFO_0007828,daytime rest measurement
+GCST011940,MONDO_0019082,bullous pemphigoid
+GCST011957,MONDO_0005159,prostate carcinoma
+GCST012011,EFO_0006935,thalamus volume
+GCST012089,MONDO_0005090,schizophrenia
+GCST012226,EFO_0007789,BMI-adjusted waist circumference
+GCST012227,EFO_0008039,BMI-adjusted hip circumference
+GCST012228,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST012230,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST012335,MONDO_0004952,Hodgkins lymphoma
+GCST012370,MONDO_0005027,epilepsy
+GCST012431,MONDO_0005180,Parkinson disease
+GCST012442,MONDO_0043765,presbycusis
+GCST012478,HP_0012199,Cluster headache
+GCST012480,EFO_0004458,C-reactive protein measurement
+GCST012490,EFO_0004531,urate measurement
+GCST012490,OBA_1000110,bone tissue density
+GCST90000025,EFO_0004980,appendicular lean mass
+GCST90000048,EFO_0009101,age at first birth measurement
+GCST90000062,EFO_0006335,systolic blood pressure
+GCST90000063,EFO_0006336,diastolic blood pressure
+GCST90000512,MONDO_0006763,frozen shoulder
+GCST90000615,OBA_1000968,vitamin D level
+GCST90000616,OBA_1000968,vitamin D level
+GCST90000654,EFO_0005213,central corneal thickness
+GCST90002292,EFO_0005090,basophil count
+GCST90002293,EFO_0005090,basophil count
+GCST90002296,EFO_0005090,basophil count
+GCST90002298,EFO_0004842,eosinophil count
+GCST90002299,EFO_0004842,eosinophil count
+GCST90002302,EFO_0004842,eosinophil count
+GCST90002304,EFO_0004348,hematocrit
+GCST90002305,EFO_0004348,hematocrit
+GCST90002308,EFO_0004348,hematocrit
+GCST90002310,EFO_0004509,hemoglobin measurement
+GCST90002314,EFO_0004509,hemoglobin measurement
+GCST90002316,EFO_0004587,lymphocyte count
+GCST90002317,EFO_0004587,lymphocyte count
+GCST90002320,EFO_0004587,lymphocyte count
+GCST90002322,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90002323,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90002325,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90002326,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90002328,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90002329,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90002334,OBA_0003460,erythrocyte volume
+GCST90002338,OBA_0003460,erythrocyte volume
+GCST90002340,EFO_0005091,monocyte count
+GCST90002341,EFO_0005091,monocyte count
+GCST90002344,EFO_0005091,monocyte count
+GCST90002346,OBA_0003277,platelet volume
+GCST90002348,OBA_0003277,platelet volume
+GCST90002349,OBA_0003277,platelet volume
+GCST90002350,EFO_0004833,neutrophil count
+GCST90002351,EFO_0004833,neutrophil count
+GCST90002352,EFO_0004833,neutrophil count
+GCST90002355,EFO_0004833,neutrophil count
+GCST90002357,EFO_0004309,platelet count
+GCST90002358,EFO_0004309,platelet count
+GCST90002361,EFO_0004309,platelet count
+GCST90002363,OBA_2045260,red blood cell density
+GCST90002364,OBA_2045260,red blood cell density
+GCST90002367,OBA_2045260,red blood cell density
+GCST90002369,EFO_0009188,Red cell distribution width
+GCST90002372,EFO_0009188,Red cell distribution width
+GCST90002374,OBA_2045223,myeloid leukocyte count
+GCST90002378,OBA_2045223,myeloid leukocyte count
+GCST90002379,EFO_0005090,basophil count
+GCST90002380,EFO_0007992,basophil percentage of leukocytes
+GCST90002381,EFO_0004842,eosinophil count
+GCST90002382,EFO_0007991,eosinophil percentage of leukocytes
+GCST90002383,EFO_0004348,hematocrit
+GCST90002384,EFO_0004509,hemoglobin measurement
+GCST90002385,EFO_0007986,reticulocyte count
+GCST90002386,OBA_0002272,reticulocyte amount
+GCST90002387,OBA_0002272,reticulocyte amount
+GCST90002388,EFO_0004587,lymphocyte count
+GCST90002389,EFO_0007993,lymphocyte percentage of leukocytes
+GCST90002390,EFO_0004527,mean corpuscular hemoglobin
+GCST90002391,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90002392,OBA_0003460,erythrocyte volume
+GCST90002393,EFO_0005091,monocyte count
+GCST90002394,EFO_0007989,monocyte percentage of leukocytes
+GCST90002395,OBA_0003277,platelet volume
+GCST90002396,EFO_0010701,mean reticulocyte volume
+GCST90002397,OBA_0003460,erythrocyte volume
+GCST90002398,EFO_0004833,neutrophil count
+GCST90002399,EFO_0007990,neutrophil percentage of leukocytes
+GCST90002400,EFO_0007985,platelet crit
+GCST90002401,EFO_0007984,platelet component distribution width
+GCST90002402,EFO_0004309,platelet count
+GCST90002403,EFO_0004305,erythrocyte count
+GCST90002404,EFO_0009188,Red cell distribution width
+GCST90002405,EFO_0007986,reticulocyte count
+GCST90002406,OBA_0002272,reticulocyte amount
+GCST90002412,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90002516,OBA_2050009,brain volume
+GCST90002601,OBA_2050009,brain volume
+GCST90002661,OBA_2050009,brain volume
+GCST90002709,OBA_2050009,brain volume
+GCST90002767,OBA_2050009,brain volume
+GCST90003612,EFO_0004840,cortical thickness
+GCST90003753,EFO_0004346,neuroimaging measurement
+GCST90003757,EFO_0004346,neuroimaging measurement
+GCST90003826,EFO_0004346,neuroimaging measurement
+GCST90003935,EFO_0008399,mean fractional anisotropy measurement
+GCST90004142,EFO_0004641,white matter integrity
+GCST90004251,EFO_0004641,white matter integrity
+GCST90004255,EFO_0004641,white matter integrity
+GCST90004340,EFO_0004346,neuroimaging measurement
+GCST90004364,EFO_0004346,neuroimaging measurement
+GCST90004365,EFO_0004346,neuroimaging measurement
+GCST90004386,EFO_0004346,neuroimaging measurement
+GCST90004548,EFO_0004346,neuroimaging measurement
+GCST90005063,OBA_2045295,brain connectivity attribute
+GCST90006074,OBA_2045295,brain connectivity attribute
+GCST90011733,EFO_0006502,mammographic density percentage
+GCST90011804,MONDO_0004989,breast carcinoma
+GCST90011822,MONDO_0004992,cancer
+GCST90011866,MONDO_0007915,systemic lupus erythematosus
+GCST90011899,EFO_0004736,aspartate aminotransferase measurement
+GCST90011900,EFO_0004533,alkaline phosphatase measurement
+GCST90012115,MONDO_0043765,presbycusis
+GCST90012698,EFO_0005091,monocyte count
+GCST90012701,OBA_0003277,platelet volume
+GCST90012877,MONDO_0004975,Alzheimer disease
+GCST90012877,EFO_0009268,family history of Alzheimer’s disease
+GCST90012880,OBA_2045210,brain attribute
+GCST90012882,OBA_2045210,brain attribute
+GCST90013316,EFO_0004534,creatine kinase measurement
+GCST90013410,MONDO_0020804,basal cell carcinoma
+GCST90013442,MONDO_0015486,keratoconus
+GCST90013445,MONDO_0005147,type 1 diabetes mellitus
+GCST90013664,EFO_0004736,aspartate aminotransferase measurement
+GCST90013679,MONDO_0004979,asthma
+GCST90013693,MONDO_0005148,type 2 diabetes mellitus
+GCST90013870,EFO_0004340,body mass index
+GCST90013871,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90013872,EFO_0004570,bilirubin measurement
+GCST90013920,MONDO_0011786,allergic rhinitis
+GCST90013938,MONDO_0004979,asthma
+GCST90013974,EFO_0004340,body mass index
+GCST90013975,EFO_0007800,body fat percentage
+GCST90013977,EFO_0004305,erythrocyte count
+GCST90013978,EFO_0004509,hemoglobin measurement
+GCST90013979,OBA_0003460,erythrocyte volume
+GCST90013980,EFO_0004309,platelet count
+GCST90013981,OBA_0003277,platelet volume
+GCST90013982,EFO_0004587,lymphocyte count
+GCST90013983,EFO_0005091,monocyte count
+GCST90013984,EFO_0004833,neutrophil count
+GCST90013985,EFO_0004842,eosinophil count
+GCST90013986,EFO_0005090,basophil count
+GCST90013990,OBA_2050068,serum albumin amount
+GCST90013991,EFO_0004533,alkaline phosphatase measurement
+GCST90013992,OBA_2050062,serum alanine aminotransferase amount
+GCST90013993,EFO_0004614,apolipoprotein A 1 measurement
+GCST90013996,EFO_0004736,aspartate aminotransferase measurement
+GCST90013997,EFO_0004570,bilirubin measurement
+GCST90014000,EFO_0004574,total cholesterol measurement
+GCST90014001,OBA_2050096,serum creatinine amount
+GCST90014002,EFO_0004458,C-reactive protein measurement
+GCST90014003,EFO_0004617,cystatin C measurement
+GCST90014004,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90014006,EFO_0004541,HbA1c measurement
+GCST90014007,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90014008,EFO_0004627,IGF-1 measurement
+GCST90014010,EFO_0010968,phosphate measurement
+GCST90014011,EFO_0004696,sex hormone-binding globulin measurement
+GCST90014014,EFO_0004530,triglyceride measurement
+GCST90014015,EFO_0004531,urate measurement
+GCST90014018,EFO_0006335,systolic blood pressure
+GCST90014020,OBA_1001085,waist circumference
+GCST90014021,OBA_1000032,hip circumference
+GCST90014022,OBA_1000110,bone tissue density
+GCST90014442,MONDO_0005130,celiac disease
+GCST90014446,MONDO_0009688,myasthenia gravis
+GCST90014460,MONDO_0010030,Sjogren syndrome
+GCST90018564,MONDO_0004980,atopic eczema
+GCST90018588,MONDO_0005575,colorectal cancer
+GCST90018599,MONDO_0012672,cholelithiasis
+GCST90018690,MONDO_0008383,rheumatoid arthritis
+GCST90018715,MONDO_0024647,urolithiasis
+GCST90018723,OBA_2050062,serum alanine aminotransferase amount
+GCST90018728,OBA_VT0005265,blood urea nitrogen amount
+GCST90018729,EFO_0004338,body weight
+GCST90018730,EFO_0004458,C-reactive protein measurement
+GCST90018733,EFO_0004842,eosinophil count
+GCST90018744,EFO_0004527,mean corpuscular hemoglobin
+GCST90018745,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90018746,OBA_0003460,erythrocyte volume
+GCST90018749,EFO_0004309,platelet count
+GCST90018754,EFO_0004574,total cholesterol measurement
+GCST90018757,EFO_0004761,uric acid measurement
+GCST90018759,OBA_2050096,serum creatinine amount
+GCST90018769,EFO_0009932,HMG CoA reductase inhibitor use measurement
+GCST90018784,MONDO_0004980,atopic eczema
+GCST90018795,MONDO_0004979,asthma
+GCST90018796,MONDO_0004981,atrial fibrillation
+GCST90018808,MONDO_0005575,colorectal cancer
+GCST90018874,MONDO_0005348,keloid
+GCST90018877,MONDO_0005068,myocardial infarction
+GCST90018939,HP_0002619,Varicose veins
+GCST90018942,EFO_0004533,alkaline phosphatase measurement
+GCST90018943,OBA_2050062,serum alanine aminotransferase amount
+GCST90018944,EFO_0004736,aspartate aminotransferase measurement
+GCST90018945,OBA_2050068,serum albumin amount
+GCST90018946,EFO_0005090,basophil count
+GCST90018947,EFO_0004340,body mass index
+GCST90018948,OBA_VT0005265,blood urea nitrogen amount
+GCST90018949,EFO_0004338,body weight
+GCST90018953,EFO_0004842,eosinophil count
+GCST90018954,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90018956,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90018957,EFO_0004509,hemoglobin measurement
+GCST90018958,EFO_0007629,hemoglobin A1 measurement
+GCST90018961,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90018962,EFO_0004587,lymphocyte count
+GCST90018963,EFO_0006340,mean arterial pressure
+GCST90018964,EFO_0004527,mean corpuscular hemoglobin
+GCST90018965,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90018966,OBA_0003460,erythrocyte volume
+GCST90018967,EFO_0005091,monocyte count
+GCST90018968,EFO_0004833,neutrophil count
+GCST90018969,EFO_0004309,platelet count
+GCST90018970,EFO_0005763,pulse pressure measurement
+GCST90018971,EFO_0004305,erythrocyte count
+GCST90018972,EFO_0006335,systolic blood pressure
+GCST90018974,EFO_0004574,total cholesterol measurement
+GCST90018975,EFO_0004530,triglyceride measurement
+GCST90018976,EFO_0004536,total blood protein measurement
+GCST90018977,EFO_0004761,uric acid measurement
+GCST90018979,OBA_2050096,serum creatinine amount
+GCST90018981,EFO_0009924,Drugs used in diabetes use measurement
+GCST90018985,EFO_0009928,Diuretic use measurement
+GCST90018987,EFO_0009930,Calcium channel blocker use measurement
+GCST90018988,EFO_0009931,Agents acting on the renin-angiotensin system use measurement
+GCST90018990,EFO_0009933,Thyroid preparation use measurement
+GCST90018995,EFO_0007013,aspirin use measurement
+GCST90018999,EFO_0009941,Inhalant adrenergic use measurement
+GCST90019017,MONDO_0005083,psoriasis
+GCST90019493,OBA_2050068,serum albumin amount
+GCST90019494,EFO_0004533,alkaline phosphatase measurement
+GCST90019496,EFO_0004615,apolipoprotein B measurement
+GCST90019497,EFO_0004736,aspartate aminotransferase measurement
+GCST90019499,EFO_0004458,C-reactive protein measurement
+GCST90019500,EFO_0004838,calcium measurement
+GCST90019501,EFO_0004574,total cholesterol measurement
+GCST90019502,OBA_2050096,serum creatinine amount
+GCST90019504,EFO_0004617,cystatin C measurement
+GCST90019506,OBA_0003747,glomerular filtration rate
+GCST90019507,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90019509,EFO_0004541,HbA1c measurement
+GCST90019510,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90019511,EFO_0004627,IGF-1 measurement
+GCST90019515,OBA_2045206,level of serum globulin type protein
+GCST90019516,EFO_0010972,blood phosphate measurement
+GCST90019518,EFO_0004696,sex hormone-binding globulin measurement
+GCST90019522,OBA_VT0005416,blood protein amount
+GCST90019524,EFO_0004531,urate measurement
+GCST90020024,EFO_0007789,BMI-adjusted waist circumference
+GCST90020025,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST90020026,EFO_0008039,BMI-adjusted hip circumference
+GCST90020027,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST90020028,EFO_0008039,BMI-adjusted hip circumference
+GCST90020029,EFO_0007789,BMI-adjusted waist circumference
+GCST90020073,EFO_0600050,plasma leucine rich alpha-2-glycoprotein 1 measurement
+GCST90020194,EFO_0020864,cerebellar volume measurement
+GCST90020227,MONDO_0002009,major depressive disorder
+GCST90020232,EFO_0007800,body fat percentage
+GCST90024475,OBA_2040181,level of phosphatidylinositol
+GCST90024719,OBA_2040178,level of diglyceride
+GCST90024735,OBA_2040177,level of ceramide
+GCST90025339,EFO_0021451,GM3 ganglioside measurement
+GCST90025348,OBA_2040177,level of ceramide
+GCST90026020,EFO_0010118,sphingomyelin measurement
+GCST90026028,EFO_0010476,dimethylglycine measurement
+GCST90026029,EFO_0010486,glucuronate measurement
+GCST90026062,EFO_0004725,metabolite measurement
+GCST90026067,EFO_0004725,metabolite measurement
+GCST90026104,EFO_0004725,metabolite measurement
+GCST90026110,EFO_0004725,metabolite measurement
+GCST90026140,EFO_0004725,metabolite measurement
+GCST90026156,EFO_0004725,metabolite measurement
+GCST90026200,EFO_0004725,metabolite measurement
+GCST90026212,EFO_0004725,metabolite measurement
+GCST90026216,EFO_0004725,metabolite measurement
+GCST90026228,EFO_0004725,metabolite measurement
+GCST90026243,EFO_0004725,metabolite measurement
+GCST90026289,EFO_0004725,metabolite measurement
+GCST90026293,EFO_0004725,metabolite measurement
+GCST90026310,EFO_0004725,metabolite measurement
+GCST90026461,MONDO_0004989,breast carcinoma
+GCST90026508,EFO_0004833,neutrophil count
+GCST90026654,OBA_2050096,serum creatinine amount
+GCST90026654,OBA_0003747,glomerular filtration rate
+GCST90027092,EFO_0004696,sex hormone-binding globulin measurement
+GCST90027161,MONDO_0004980,atopic eczema
+GCST90029013,EFO_0011015,educational attainment
+GCST90029014,EFO_0006527,smoking status measurement
+GCST90029070,EFO_0004458,C-reactive protein measurement
+GCST90029118,EFO_0004509,hemoglobin measurement
+GCST90032651,EFO_0008111,diet measurement
+GCST90032655,EFO_0007979,childhood trauma measurement
+GCST90032655,OBA_1000840,alcohol consumption quality
+GCST90034521,MONDO_0006629,
+GCST90034521,MONDO_0005416,
+GCST90038614,MONDO_0005279,pulmonary embolism
+GCST90038629,MONDO_0005346,gallstones
+GCST90038629,MONDO_0012672,cholelithiasis
+GCST90038656,MONDO_0005298,osteoporosis
+GCST90041836,OBA_0002313,strand of hair color
+GCST90041837,OBA_0002313,strand of hair color
+GCST90041839,OBA_0002313,strand of hair color
+GCST90041840,OBA_0002313,strand of hair color
+GCST90041866,HP_0000737,Irritability
+GCST90043616,MONDO_0005339,androgenetic alopecia
+GCST90043619,EFO_0007825,balding measurement
+GCST90043619,MONDO_0005339,androgenetic alopecia
+GCST90043661,GO_0042697,menopause
+GCST90043741,EFO_0009720,able to hear with hearing aids
+GCST90043819,MONDO_0005349,otosclerosis
+GCST90044147,HP_0000023,Inguinal hernia
+GCST90044231,MONDO_0100338,urinary tract infection
+GCST90044291,EFO_0011015,educational attainment
+GCST90044297,EFO_0011015,educational attainment
+GCST90044348,MONDO_0004995,cardiovascular disorder
+GCST90044351,MONDO_0005044,hypertensive disorder
+GCST90044359,MONDO_0005087,respiratory system disorder
+GCST90044359,MONDO_0005271,allergic disease
+GCST90044359,HP_0001977,Abnormal thrombosis
+GCST90044363,MONDO_0004979,asthma
+GCST90044364,EFO_0003907,deep vein thrombosis
+GCST90044569,MONDO_0006345,palmar fibromatosis
+GCST90056174,OBA_0003460,erythrocyte volume
+GCST90056180,EFO_0004842,eosinophil count
+GCST90056181,EFO_0600088,lymphocyte:monocyte ratio
+GCST90056182,EFO_0008447,neutrophil-to-lymphocyte ratio
+GCST90056183,EFO_0004309,platelet count
+GCST90056184,EFO_0008446,platelet-to-lymphocyte ratio
+GCST90060753,EFO_0010118,sphingomyelin measurement
+GCST90061435,OBA_1000278,social inhibition quality
+GCST90061435,MONDO_0007743,attention deficit-hyperactivity disorder
+GCST90061435,MONDO_0002491,substance abuse
+GCST90077599,OBA_VT0002095,skin pigmentation
+GCST90078878,OBA_2045262,hearing process quality
+GCST90078909,HP_0000924,Abnormality of the skeletal system
+GCST90078933,OBA_VT0010482,body fat mass
+GCST90078983,EFO_0004527,mean corpuscular hemoglobin
+GCST90078986,EFO_0009188,Red cell distribution width
+GCST90078990,EFO_0007984,platelet component distribution width
+GCST90078991,EFO_0004587,lymphocyte count
+GCST90078997,EFO_0007990,neutrophil percentage of leukocytes
+GCST90078999,EFO_0007992,basophil percentage of leukocytes
+GCST90079005,OBA_0002272,reticulocyte amount
+GCST90079013,EFO_0004533,alkaline phosphatase measurement
+GCST90079031,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90079032,EFO_0004627,IGF-1 measurement
+GCST90085822,OBA_2045246,banks of the superior temporal sulcus volume
+GCST90085841,OBA_2050027,pallidum volume
+GCST90091060,OBA_2045267,cerebral cortex area attribute
+GCST90091061,EFO_0004840,cortical thickness
+GCST90091510,EFO_0010114,citrate measurement
+GCST90092820,EFO_0009767,glycine measurement
+GCST90092823,EFO_0010351,cholesteryl ester measurement
+GCST90092823,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90092844,EFO_0004574,total cholesterol measurement
+GCST90092844,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90092864,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90092864,OBA_1001011,phospholipid level
+GCST90092871,EFO_0020944,cholesteryl esters:total lipids ratio
+GCST90092871,OBA_VT0005144,blood VLDL cholesterol amount
+GCST90092878,EFO_0004530,triglyceride measurement
+GCST90092878,OBA_VT0005144,blood VLDL cholesterol amount
+GCST90092920,EFO_0008591,free cholesterol measurement
+GCST90092920,OBA_VT0005144,blood VLDL cholesterol amount
+GCST90092940,OBA_VT0010046,fatty acid amount
+GCST90092949,EFO_0020945,free cholesterol:total lipids ratio
+GCST90092949,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90092956,EFO_0004574,total cholesterol measurement
+GCST90092956,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90092959,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90092959,EFO_0020944,cholesteryl esters:total lipids ratio
+GCST90092987,OBA_VT0010046,fatty acid amount
+GCST90093011,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90093020,EFO_0008591,free cholesterol measurement
+GCST90093020,OBA_VT0005144,blood VLDL cholesterol amount
+GCST90093113,MONDO_0018229,Stevens-Johnson syndrome
+GCST90093113,EFO_0006997,response to cold medicine
+GCST90093113,MONDO_0019810,toxic epidermal necrolysis
+GCST90093289,OBA_2001000,age of onset of Alzheimer disease
+GCST90093296,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90093297,OBA_0003460,erythrocyte volume
+GCST90094735,EFO_0010155,taste liking measurement
+GCST90094829,EFO_0010155,taste liking measurement
+GCST90094863,EFO_0010155,taste liking measurement
+GCST90095039,EFO_0004340,body mass index
+GCST90095129,OBA_2045210,brain attribute
+GCST90095130,OBA_2045267,cerebral cortex area attribute
+GCST90095131,EFO_0004840,cortical thickness
+GCST90095158,EFO_0009355,Anti-measles virus IgG measurement
+GCST90095174,EFO_0005043,cardiac troponin T measurement
+GCST90096910,EFO_0010088,beverage consumption measurement
+GCST90096918,EFO_0010139,fish consumption measurement
+GCST90096932,EFO_0009332,executive function measurement
+GCST90096932,EFO_0008354,cognitive function measurement
+GCST90096932,MONDO_0002009,major depressive disorder
+GCST90100220,OBA_0003747,glomerular filtration rate
+GCST90101438,EFO_0008267,polymeric immunoglobulin receptor measurement
+GCST90101816,EFO_0007701,spine bone mineral density
+GCST90101831,OBA_VT0008739,spleen iron amount
+GCST90102517,EFO_0010067,corneal resistance factor
+GCST90102518,EFO_0005213,central corneal thickness
+GCST90102799,EFO_0022087,3-hydroxy-5-cholestenoic acid measurement
+GCST90103020,EFO_0021015,indoleacetate measurement
+GCST90103325,EFO_0022130,X-24243 measurement
+GCST90103971,MONDO_0005012,cutaneous melanoma
+GCST90104030,MONDO_0100096,COVID-19
+GCST90104272,EFO_0004908,testosterone measurement
+GCST90104273,EFO_0004696,sex hormone-binding globulin measurement
+GCST90104339,EFO_0008002,physical activity measurement
+GCST90104535,HP_0002140,Ischemic stroke
+GCST90105038,EFO_0011015,educational attainment
+GCST90128891,EFO_0004468,glucose measurement
+GCST90129540,MONDO_0005399,venous thromboembolism
+GCST90129540,OBA_2050207,tissue plasminogen activator amount
+GCST90129542,MONDO_0005010,coronary artery disorder
+GCST90129542,EFO_0004619,factor VII measurement
+GCST90129543,EFO_0004630,factor VIII measurement
+GCST90129543,MONDO_0005010,coronary artery disorder
+GCST90129559,OBA_0000061,circulating fibrinogen levels
+GCST90129559,EFO_0004792,plasminogen activator inhibitor 1 measurement
+GCST90129575,MONDO_0005349,otosclerosis
+GCST90129592,EFO_0006939,cup-to-disc ratio measurement
+GCST90129602,OBA_2050062,serum alanine aminotransferase amount
+GCST90129627,EFO_0006939,cup-to-disc ratio measurement
+GCST90131901,MONDO_0013600,insomnia
+GCST90131904,OBA_2045210,brain attribute
+GCST90131905,OBA_2045210,brain attribute
+GCST90131906,OBA_2045210,brain attribute
+GCST90131908,EFO_0007788,BMI-adjusted waist-hip ratio
+GCST90132194,MONDO_0100096,COVID-19
+GCST90132223,MONDO_0008383,rheumatoid arthritis
+GCST90132224,MONDO_0008383,rheumatoid arthritis
+GCST90132225,EFO_0007837,anti-citrullinated protein antibody seropositivity
+GCST90132225,MONDO_0008383,rheumatoid arthritis
+GCST90132225,EFO_0007791,rheumatoid factor seropositivity measurement
+GCST90132229,MONDO_0004981,atrial fibrillation
+GCST90132305,MONDO_0005010,coronary artery disorder
+GCST90132315,MONDO_0005010,coronary artery disorder
+GCST90132690,EFO_0004574,total cholesterol measurement
+GCST90132690,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90132703,OBA_VT0010046,fatty acid amount
+GCST90132728,EFO_0004555,glycoprotein measurement
+GCST90132739,OBA_VT0010046,fatty acid amount
+GCST90132904,EFO_0006336,diastolic blood pressure
+GCST90132905,EFO_0005763,pulse pressure measurement
+GCST90132906,MONDO_0043765,presbycusis
+GCST90132934,EFO_0010158,sugar consumption measurement
+GCST90132984,EFO_0006781,coffee consumption measurement
+GCST90133004,EFO_0004329,alcohol drinking
+GCST90133048,EFO_0008111,diet measurement
+GCST90133363,EFO_0006807,linoleic acid measurement
+GCST90134284,MONDO_0005178,osteoarthritis
+GCST90134420,HP_0000131,Uterine leiomyoma
+GCST90134420,MONDO_0004989,breast carcinoma
+GCST90134492,EFO_0004541,HbA1c measurement
+GCST90134598,MONDO_0100096,COVID-19
+GCST90137585,EFO_0004617,cystatin C measurement
+GCST90137596,EFO_0020392,ficolin-3 measurement
+GCST90137659,OBA_2050321,ephrin type-A receptor 1 amount
+GCST90137703,EFO_0008175,interleukin 17 receptor A measurement
+GCST90139814,EFO_0800275,glycosyl-N-stearoyl-sphingosine (d18:1/18:0) measurement
+GCST90140117,EFO_0800543,ximenoylcarnitine (C26:1) measurement
+GCST90140147,EFO_0800572,dodecadienoate (12:2) measurement
+GCST90165318,OBA_2045295,brain connectivity attribute
+GCST90178279,EFO_0004725,metabolite measurement
+GCST90178280,EFO_0004725,metabolite measurement
+GCST90179115,EFO_0008393,reaction time measurement
+GCST90179146,EFO_0004458,C-reactive protein measurement
+GCST90179147,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90179150,EFO_0004340,body mass index
+GCST90179153,EFO_0004682,QT interval
+GCST90179158,EFO_0007885,JT interval
+GCST90179162,OBA_1001086,QRS duration
+GCST90179216,EFO_0008011,a disintegrin and metalloproteinase with thrombospondin motifs 13 measurement
+GCST90179219,EFO_0008016,Agouti-related protein measurement
+GCST90179255,OBA_2040369,level of complement component C1q receptor in blood serum
+GCST90179275,OBA_2044953,level of cathepsin H in blood serum
+GCST90179287,EFO_0021845,gamma-enolase measurement
+GCST90179306,OBA_2050135,growth differentiation factor 15  level
+GCST90179311,EFO_0008141,granulins measurement
+GCST90179317,EFO_0010915,heat shock 27 kDa protein measurement
+GCST90179338,EFO_0008187,interleukin 6 receptor subunit alpha measurement
+GCST90179340,OBA_2042054,level of integrin beta-7 in blood serum
+GCST90179352,OBA_2042229,level of low-density lipoprotein receptor-related protein 11 in blood serum
+GCST90179369,OBA_2040385,level of nectin-2 in blood serum
+GCST90179379,EFO_0010618,obsolete_pappalysin‐1 measurement
+GCST90179383,OBA_2042824,level of platelet-derived growth factor subunit A in blood serum
+GCST90179403,OBA_2045003,level of advanced glycosylation end product-specific receptor in blood serum
+GCST90179433,EFO_0010623,tissue factor measurement
+GCST90179449,OBA_2045021,level of tumor necrosis factor receptor superfamily member 10C in blood serum
+GCST90179456,EFO_0010930,TNF-related apoptosis-inducing ligand receptor 2 measurement
+GCST90199705,EFO_0800207,propionylglycine measurement
+GCST90199840,EFO_0800279,pregnenediol disulfate (C21H34O8S2) measurement
+GCST90200014,EFO_0800379,3beta-hydroxy-5-cholestenoate measurement
+GCST90200114,OBA_2040177,level of ceramide
+GCST90200205,EFO_0801027,3-indoleglyoxylic acid measurement
+GCST90200416,EFO_0800138,trans-urocanate measurement
+GCST90200541,EFO_0004725,metabolite measurement
+GCST90200673,EFO_0800201,butyrylcarnitine (C4) measurement
+GCST90200694,EFO_0800635,2'-O-methylcytidine measurement
+GCST90200700,EFO_0800598,decadienedioic acid (C10:2-DC) measurement
+GCST90200774,EFO_0022223,metabolite ratio
+GCST90201104,EFO_0800205,3-hydroxysebacate measurement
+GCST90201406,EFO_0801001,2-acetamidophenol sulfate measurement
+GCST90201763,EFO_0010452,adenosine diphosphate measurement
+GCST90201790,EFO_0010968,phosphate measurement
+GCST90201877,EFO_0800698,X-11880 measurement
+GCST90201895,EFO_0021315,X-12544 measurement
+GCST90201943,EFO_0004725,metabolite measurement
+GCST90202002,EFO_0800861,X-23678 measurement
+GCST90203061,EFO_0004725,metabolite measurement
+GCST90204167,MONDO_0005420,hypothyroidism
+GCST90204201,MONDO_0004981,atrial fibrillation
+GCST90205204,EFO_0803316,abdominal adipose tissue measurement
+GCST90225533,MONDO_0005044,hypertensive disorder
+GCST90225533,MONDO_0100096,COVID-19
+GCST90239623,EFO_0004348,hematocrit
+GCST90239635,OBA_1000942,alpha-fetoprotein level
+GCST90239649,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90239650,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90239652,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90239655,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90239658,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90239661,EFO_0004530,triglyceride measurement
+GCST90239663,EFO_0004530,triglyceride measurement
+GCST90239664,EFO_0004530,triglyceride measurement
+GCST90239667,EFO_0005689,non-high density lipoprotein cholesterol measurement
+GCST90239669,EFO_0005689,non-high density lipoprotein cholesterol measurement
+GCST90239670,EFO_0005689,non-high density lipoprotein cholesterol measurement
+GCST90239673,EFO_0004574,total cholesterol measurement
+GCST90239674,EFO_0004574,total cholesterol measurement
+GCST90239675,EFO_0004574,total cholesterol measurement
+GCST90239676,EFO_0004574,total cholesterol measurement
+GCST90239692,OBA_1000376,aggressive behavior quality
+GCST90239692,EFO_0007860,ADHD symptom measurement
+GCST90239723,HP_0000023,Inguinal hernia
+GCST90239729,EFO_0004346,neuroimaging measurement
+GCST90239819,EFO_0004908,testosterone measurement
+GCST90239820,EFO_0004908,testosterone measurement
+GCST90239821,EFO_0004696,sex hormone-binding globulin measurement
+GCST90239822,EFO_0004696,sex hormone-binding globulin measurement
+GCST90239823,EFO_0007005,free androgen index
+GCST90239826,EFO_0004908,testosterone measurement
+GCST90239828,EFO_0006336,diastolic blood pressure
+GCST90239828,EFO_0006335,systolic blood pressure
+GCST90239829,EFO_0006336,diastolic blood pressure
+GCST90239829,EFO_0006335,systolic blood pressure
+GCST90243754,EFO_0021078,1-arachidonoylglycerophosphoinositol measurement
+GCST90243968,EFO_0005670,smoking initiation
+GCST90243984,OBA_1000840,alcohol consumption quality
+GCST90243985,EFO_0005670,smoking initiation
+GCST90243989,OBA_1000840,alcohol consumption quality
+GCST90244004,EFO_0004541,HbA1c measurement
+GCST90244006,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90244007,EFO_0004530,triglyceride measurement
+GCST90244011,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90244092,EFO_0004314,forced expiratory volume
+GCST90244094,EFO_0004713,FEV/FVC ratio
+GCST90244680,EFO_0004530,triglyceride measurement
+GCST90244757,EFO_0803360,SARS-CoV-2 antibody measurement
+GCST90244757,EFO_0803362,response to COVID-19 vaccine
+GCST90244762,MONDO_0004979,asthma
+GCST90244787,MONDO_0004980,atopic eczema
+GCST90244907,EFO_0800450,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) measurement
+GCST90245263,EFO_0021016,indolepropionate measurement
+GCST90245430,EFO_0800185,sphingosine 1-phosphate measurement
+GCST90245489,EFO_0021228,X-11381 measurement
+GCST90245995,EFO_0022196,body surface area
+GCST90246320,EFO_0020097,QRS-T angle
+GCST90246421,EFO_0004747,protein measurement
+GCST90246587,EFO_0008016,Agouti-related protein measurement
+GCST90246636,EFO_0004747,protein measurement
+GCST90246955,EFO_0801440,cadherin-related family member 5 measurement
+GCST90247002,EFO_0801461,cell growth regulator with EF hand domain protein 1 measurement
+GCST90247072,EFO_0008086,CMRF35-like molecule 6 measurement
+GCST90247146,EFO_0004747,protein measurement
+GCST90247346,EFO_0802485,DNA-directed DNA/RNA polymerase mu measurement
+GCST90247638,EFO_0021934,follistatin-related protein 1 measurement
+GCST90247806,EFO_0801655,granzyme M measurement
+GCST90247818,EFO_0802581,
+GCST90247962,EFO_0801697,
+GCST90248060,EFO_0020500,interleukin-22 receptor subunit alpha-2 measurement
+GCST90248118,EFO_0004747,protein measurement
+GCST90248232,EFO_0008210,low affinity immunoglobulin epsilon Fc receptor measurement
+GCST90248296,EFO_0004747,protein measurement
+GCST90248491,EFO_0004747,protein measurement
+GCST90248690,EFO_0004747,protein measurement
+GCST90248705,EFO_0021995,noggin measurement
+GCST90248869,EFO_0802980,putative chondrosarcoma-associated gene 1 protein measurement
+GCST90248894,EFO_0801920,procollagen C-endopeptidase enhancer 1 measurement
+GCST90249483,EFO_0803114,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related measurement
+GCST90249904,EFO_0802152,transmembrane protein 132C measurement
+GCST90250033,EFO_0020822,tyrosine-protein kinase FGR measurement
+GCST90250111,EFO_0010932,urokinase plasminogen activator surface receptor measurement
+GCST90250902,EFO_0803367,antihyperlipidemic drug use measurement
+GCST90250911,EFO_0009924,Drugs used in diabetes use measurement
+GCST90255358,MONDO_0100096,COVID-19
+GCST90255621,EFO_0004340,body mass index
+GCST90255669,OBA_2001015,age of onset of childhood onset asthma
+GCST90257068,GO_0050896,response to stimulus
+GCST90257068,EFO_0803548,neutrophil measurement
+GCST90257106,EFO_0021166,piperine measurement
+GCST90257342,OBA_2040179,level of phosphatidylcholine
+GCST90257532,EFO_0800118,N-acetylalanine measurement
+GCST90257542,EFO_0005134,amino acid measurement
+GCST90257554,EFO_0020013,5-methyluridine (ribothymidine) measurement
+GCST90257833,EFO_0004529,lipid measurement
+GCST90258010,OBA_2050078,blood metabolite level
+GCST90258060,EFO_0800005,N-acetylglutamate measurement
+GCST90258101,OBA_2050078,blood metabolite level
+GCST90258247,EFO_0010456,allantoin measurement
+GCST90258652,EFO_0004509,hemoglobin measurement
+GCST90264174,EFO_0004337,intelligence
+GCST90264256,EFO_0800231,1-palmitoleoyl-GPC (16:1) measurement
+GCST90264434,EFO_0004725,metabolite measurement
+GCST90264435,EFO_0800643,2'-deoxyuridine measurement
+GCST90264439,EFO_0800636,2'-O-methyluridine measurement
+GCST90264755,EFO_0004725,metabolite measurement
+GCST90264786,EFO_0004725,metabolite measurement
+GCST90264830,EFO_0010461,argininosuccinate measurement
+GCST90264837,EFO_0010462,aspartate measurement
+GCST90264845,EFO_0021150,benzoate measurement
+GCST90265253,EFO_0009768,glutamine measurement
+GCST90265258,EFO_0800030,glutarylcarnitine (C5-DC) measurement
+GCST90265291,EFO_0800276,glycocholenate sulfate measurement
+GCST90265537,EFO_0800033,N-acetyl-aspartyl-glutamate (NAAG) measurement
+GCST90265539,EFO_0021430,N-acetyl-beta-alanine measurement
+GCST90265623,EFO_0800128,N-formylmethionine measurement
+GCST90265782,EFO_0800300,palmitoyl sphingomyelin (d18:1/16:0) measurement
+GCST90266218,EFO_0021294,X-12216 measurement
+GCST90266803,EFO_0004725,metabolite measurement
+GCST90267280,EFO_0004784,self reported educational attainment
+GCST90267302,EFO_0006527,smoking status measurement
+GCST90267481,EFO_0010480,fumarate measurement
+GCST90267627,MONDO_0004975,Alzheimer disease
+GCST90267627,MONDO_0001627,dementia
+GCST90267627,EFO_0009268,family history of Alzheimer’s disease
+GCST90267986,EFO_0004617,cystatin C measurement
+GCST90268140,EFO_0010556,Left ventricular mass to end-diastolic volume ratio
+GCST90268476,EFO_0600008,mitochondrial heteroplasmy measurement
+GCST90268499,EFO_0006312,mitochondrial DNA measurement
+GCST90269562,EFO_0009793,isoleucine measurement
+GCST90269581,EFO_0021898,cholesterol in chylomicrons and extremely large VLDL measurement
+GCST90269648,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90269691,EFO_0020946,phospholipids:total lipids ratio
+GCST90269692,EFO_0022239,cholesterol to total lipids in medium VLDL percentage
+GCST90269792,MONDO_0001039,tonsillitis
+GCST90269956,MONDO_0005159,prostate carcinoma
+GCST90269967,MONDO_0005377,nephrotic syndrome
+GCST90270074,EFO_0007660,neuroticism measurement
+GCST90270074,EFO_0008354,cognitive function measurement
+GCST90270081,EFO_0004314,forced expiratory volume
+GCST90270083,EFO_0004312,vital capacity
+GCST90270116,EFO_0021796,sexual dimorphism measurement
+GCST90270398,EFO_0010554,retinal vasculature measurement
+GCST90270865,EFO_0004459,ferritin measurement
+GCST90270930,MONDO_0004247,peptic ulcer disease
+GCST90270934,MONDO_0100096,COVID-19
+GCST90270939,MONDO_0005180,Parkinson disease
+GCST90270940,MONDO_0007915,systemic lupus erythematosus
+GCST90271706,EFO_0008475,mood instability measurement
+GCST90271708,EFO_0009597,feeling nervous measurement
+GCST90271804,EFO_0004840,cortical thickness
+GCST90274348,EFO_0020044,eicosanoids measurement
+GCST90274387,EFO_0020044,eicosanoids measurement
+GCST90274713,MONDO_0005159,prostate carcinoma
+GCST90274714,MONDO_0005159,prostate carcinoma
+GCST90274716,MONDO_0005159,prostate carcinoma
+GCST90274864,EFO_0022597,aging
+GCST90274897,EFO_0010587,interleukin-2 receptor subunit alpha measurement
+GCST90274901,OBA_2050157,melanoma-derived growth regulatory protein  level
+GCST90275067,MONDO_0018076,tuberculosis
+GCST90275127,MONDO_0005180,Parkinson disease
+GCST90276150,MONDO_0021108,meningitis
+GCST90278113,EFO_0004574,total cholesterol measurement
+GCST90278625,EFO_0006336,diastolic blood pressure
+GCST90278630,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90278631,EFO_0004509,hemoglobin measurement
+GCST90278632,EFO_0004541,HbA1c measurement
+GCST90278635,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90278638,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90278640,EFO_0004309,platelet count
+GCST90278641,EFO_0004305,erythrocyte count
+GCST90278644,EFO_0004574,total cholesterol measurement
+GCST90278645,EFO_0004530,triglyceride measurement
+GCST90278646,EFO_0004761,uric acid measurement
+GCST90278651,OBA_2050068,serum albumin amount
+GCST90278653,EFO_0004736,aspartate aminotransferase measurement
+GCST90278656,OBA_2050096,serum creatinine amount
+GCST90278657,EFO_0006336,diastolic blood pressure
+GCST90278659,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90278660,EFO_0004509,hemoglobin measurement
+GCST90278663,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90278666,EFO_0004309,platelet count
+GCST90278667,EFO_0004305,erythrocyte count
+GCST90278668,EFO_0006335,systolic blood pressure
+GCST90278671,EFO_0004530,triglyceride measurement
+GCST90281222,EFO_0803548,neutrophil measurement
+GCST90281223,EFO_0803548,neutrophil measurement
+GCST90281230,EFO_0803540,eosinophil measurement
+GCST90281340,EFO_0008399,mean fractional anisotropy measurement
+GCST90281345,OBA_2045227,genu of corpus callosum volume
+GCST90292538,MONDO_0005265,inflammatory bowel disease
+GCST90296488,MONDO_0007254,breast cancer
+GCST90296488,MONDO_0100096,COVID-19
+GCST90296598,MONDO_0005015,diabetes mellitus
+GCST90296604,HP_0003124,Hypercholesterolemia
+GCST90297556,EFO_0005674,white matter microstructure measurement
+GCST90297563,MONDO_0005061,lung adenocarcinoma
+GCST90300339,EFO_0800533,glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) measurement
+GCST90301321,MONDO_0005101,ulcerative colitis
+GCST90301330,OBA_2050200,prostate specific antigen amount
+GCST90301649,EFO_0004340,body mass index
+GCST90301650,EFO_0004340,body mass index
+GCST90301944,OBA_2050068,serum albumin amount
+GCST90301960,OBA_VT0010046,fatty acid amount
+GCST90301961,EFO_0005680,omega-6 polyunsaturated fatty acid measurement
+GCST90301962,OBA_VT0010046,fatty acid amount
+GCST90301969,EFO_0004574,total cholesterol measurement
+GCST90301969,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90301984,EFO_0020946,phospholipids:total lipids ratio
+GCST90301984,EFO_0008595,intermediate density lipoprotein measurement
+GCST90301986,EFO_0020947,triglycerides:total lipids ratio
+GCST90301986,EFO_0008595,intermediate density lipoprotein measurement
+GCST90302005,EFO_0022318,triglycerides in large HDL measurement
+GCST90302027,EFO_0022301,phospholipids in VLDL measurement
+GCST90302062,EFO_0020945,free cholesterol:total lipids ratio
+GCST90302062,OBA_VT0005144,blood VLDL cholesterol amount
+GCST90302091,EFO_0022179,total cholesterol in small LDL
+GCST90302095,EFO_0022271,free cholesterol in small LDL measurement
+GCST90302096,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90302096,EFO_0020945,free cholesterol:total lipids ratio
+GCST90302107,EFO_0020944,cholesteryl esters:total lipids ratio
+GCST90302107,OBA_VT0005144,blood VLDL cholesterol amount
+GCST90302117,EFO_0010116,choline measurement
+GCST90302118,OBA_VT0010046,fatty acid amount
+GCST90302128,EFO_0008589,esterified cholesterol measurement
+GCST90302128,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90302134,EFO_0022298,phospholipids in very large HDL measurement
+GCST90302150,EFO_0022231,cholesterol in very small VLDL measurement
+GCST90302154,EFO_0022275,free cholesterol in very small VLDL measurement
+GCST90302156,EFO_0022156,total lipids in very small VLDL measurement
+GCST90302161,EFO_0020947,triglycerides:total lipids ratio
+GCST90302161,OBA_VT0005144,blood VLDL cholesterol amount
+GCST90302225,EFO_0004309,platelet count
+GCST90302226,EFO_0004309,platelet count
+GCST90302228,EFO_0004309,platelet count
+GCST90302230,OBA_0003277,platelet volume
+GCST90302233,OBA_0003277,platelet volume
+GCST90302886,MONDO_0004979,asthma
+GCST90302889,EFO_0004340,body mass index
+GCST90302892,EFO_0007789,BMI-adjusted waist circumference
+GCST90308598,EFO_0004314,forced expiratory volume
+GCST90308599,EFO_0004312,vital capacity
+GCST90308600,EFO_0004713,FEV/FVC ratio
+GCST90308603,EFO_0004713,FEV/FVC ratio
+GCST90308682,EFO_0010067,corneal resistance factor
+GCST90308722,MONDO_0005342,IgA glomerulonephritis
+GCST90309345,MONDO_0005087,respiratory system disorder
+GCST90309346,MONDO_0005044,hypertensive disorder
+GCST90309350,MONDO_0005010,coronary artery disorder
+GCST90309353,OBA_1000110,bone tissue density
+GCST90309354,EFO_0007863,illness severity status
+GCST90309364,EFO_0004872,inflammatory biomarker measurement
+GCST90309364,EFO_0008111,diet measurement
+GCST90309365,EFO_0010282,gastrointestinal disease
+GCST90309369,EFO_0803548,neutrophil measurement
+GCST90309369,OBA_0003352,lymphocyte amount
+GCST90309819,OBA_1001087,heart rate
+GCST90309820,EFO_0011011,sitting height measurement
+GCST90309821,EFO_0004337,intelligence
+GCST90309823,EFO_0007660,neuroticism measurement
+GCST90309833,EFO_0004995,lean body mass
+GCST90309834,EFO_0009805,whole body water mass
+GCST90309835,EFO_0004340,body mass index
+GCST90309838,HP_0000924,Abnormality of the skeletal system
+GCST90309843,OBA_0004528,fat pad mass
+GCST90309850,EFO_0007800,body fat percentage
+GCST90309851,OBA_0004528,fat pad mass
+GCST90309857,EFO_0004324,body weights and measures
+GCST90309860,EFO_0004995,lean body mass
+GCST90309864,EFO_0004509,hemoglobin measurement
+GCST90309868,EFO_0009188,Red cell distribution width
+GCST90309870,EFO_0007985,platelet crit
+GCST90309871,OBA_0003277,platelet volume
+GCST90309872,EFO_0007984,platelet component distribution width
+GCST90309873,EFO_0004587,lymphocyte count
+GCST90309874,EFO_0005091,monocyte count
+GCST90309877,EFO_0007989,monocyte percentage of leukocytes
+GCST90309878,EFO_0007990,neutrophil percentage of leukocytes
+GCST90309882,EFO_0010701,mean reticulocyte volume
+GCST90309885,OBA_0002272,reticulocyte amount
+GCST90309886,EFO_0007986,reticulocyte count
+GCST90309887,OBA_2050068,serum albumin amount
+GCST90309888,EFO_0004312,vital capacity
+GCST90309895,EFO_0004574,total cholesterol measurement
+GCST90309898,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90309900,EFO_0004627,IGF-1 measurement
+GCST90309903,EFO_0004536,total blood protein measurement
+GCST90309904,EFO_0004530,triglyceride measurement
+GCST90309905,EFO_0004531,urate measurement
+GCST90309906,OBA_1000968,vitamin D level
+GCST90309910,EFO_0009270,heel bone mineral density
+GCST90309930,EFO_0009270,heel bone mineral density
+GCST90310003,MONDO_0016820,Moyamoya disease
+GCST90310137,EFO_0004703,age at menarche
+GCST90310138,OBA_2050062,serum alanine aminotransferase amount
+GCST90310139,OBA_2050068,serum albumin amount
+GCST90310140,EFO_0004533,alkaline phosphatase measurement
+GCST90310142,EFO_0004614,apolipoprotein A 1 measurement
+GCST90310144,EFO_0004995,lean body mass
+GCST90310145,EFO_0004736,aspartate aminotransferase measurement
+GCST90310154,OBA_2050096,serum creatinine amount
+GCST90310156,EFO_0004617,cystatin C measurement
+GCST90310160,EFO_0004314,forced expiratory volume
+GCST90310161,EFO_0004312,vital capacity
+GCST90310162,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90310164,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90310165,EFO_0006941,grip strength measurement
+GCST90310167,OBA_1000032,hip circumference
+GCST90310168,EFO_0004627,IGF-1 measurement
+GCST90310171,EFO_0004587,lymphocyte count
+GCST90310172,EFO_0004527,mean corpuscular hemoglobin
+GCST90310176,EFO_0010972,blood phosphate measurement
+GCST90310177,EFO_0004696,sex hormone-binding globulin measurement
+GCST90310178,EFO_0011011,sitting height measurement
+GCST90310181,EFO_0010724,lifestyle measurement
+GCST90310183,EFO_0004536,total blood protein measurement
+GCST90310184,EFO_0004530,triglyceride measurement
+GCST90310186,OBA_2050065,serum urea amount
+GCST90310187,OBA_1000968,vitamin D level
+GCST90310190,EFO_0009805,whole body water mass
+GCST90310191,EFO_0006336,diastolic blood pressure
+GCST90310192,EFO_0010701,mean reticulocyte volume
+GCST90310193,EFO_0004309,platelet count
+GCST90310194,EFO_0005763,pulse pressure measurement
+GCST90310196,EFO_0006335,systolic blood pressure
+GCST90310280,OBA_1000110,bone tissue density
+GCST90310294,EFO_0006335,systolic blood pressure
+GCST90310295,EFO_0006336,diastolic blood pressure
+GCST90310296,EFO_0005763,pulse pressure measurement
+GCST90310304,EFO_0006335,systolic blood pressure
+GCST90317914,OBA_2045291,cerebrospinal fluid composition attribute
+GCST90317914,EFO_0008529,kynurenine measurement
+GCST90317979,OBA_2045291,cerebrospinal fluid composition attribute
+GCST90317979,EFO_0800022,N-acetylhistidine measurement
+GCST90317983,OBA_2045291,cerebrospinal fluid composition attribute
+GCST90317983,EFO_0800156,nicotinamide riboside measurement
+GCST90318043,OBA_2045291,cerebrospinal fluid composition attribute
+GCST90318100,OBA_2045291,cerebrospinal fluid composition attribute
+GCST90318100,EFO_0800147,xylonate measurement
+GCST90318100,EFO_0801066,arabonate measurement
+GCST90318207,OBA_2045291,cerebrospinal fluid composition attribute
+GCST90318207,EFO_0800175,quinolinate measurement
+GCST90318700,EFO_0800438,palmitoyl-linoleoyl-glycerol (16:0/18:2) [2] measurement
+GCST90318992,EFO_0021161,salicylate measurement
+GCST90319320,MONDO_0005420,hypothyroidism
+GCST90319321,OBA_1000983,Thyroid stimulating hormone level
+GCST90319327,MONDO_0002009,major depressive disorder
+GCST90319599,OBA_2050068,serum albumin amount
+GCST90319600,EFO_0004533,alkaline phosphatase measurement
+GCST90319601,OBA_2050062,serum alanine aminotransferase amount
+GCST90319602,EFO_0004614,apolipoprotein A 1 measurement
+GCST90319603,EFO_0004615,apolipoprotein B measurement
+GCST90319605,EFO_0004838,calcium measurement
+GCST90319607,EFO_0004458,C-reactive protein measurement
+GCST90319608,OBA_2050096,serum creatinine amount
+GCST90319609,EFO_0010593,cystatin B measurement
+GCST90319611,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90319614,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90319615,EFO_0004627,IGF-1 measurement
+GCST90319616,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90319619,EFO_0004696,sex hormone-binding globulin measurement
+GCST90319620,EFO_0004908,testosterone measurement
+GCST90319621,EFO_0004570,bilirubin measurement
+GCST90319624,EFO_0004531,urate measurement
+GCST90319625,OBA_2050065,serum urea amount
+GCST90319627,OBA_2050068,serum albumin amount
+GCST90319629,OBA_2050062,serum alanine aminotransferase amount
+GCST90319630,EFO_0004614,apolipoprotein A 1 measurement
+GCST90319633,EFO_0004838,calcium measurement
+GCST90319635,EFO_0004458,C-reactive protein measurement
+GCST90319639,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90319641,EFO_0004541,HbA1c measurement
+GCST90319642,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90319643,EFO_0004627,IGF-1 measurement
+GCST90319646,EFO_0010968,phosphate measurement
+GCST90319647,EFO_0004696,sex hormone-binding globulin measurement
+GCST90319650,EFO_0004536,total blood protein measurement
+GCST90319906,EFO_0004531,urate measurement
+GCST90320053,MONDO_0005689,cannabis dependence
+GCST90320055,MONDO_0005005,clear cell renal carcinoma
+GCST90320056,MONDO_0017884,papillary renal cell carcinoma
+GCST90320887,OBA_2045210,brain attribute
+GCST90321051,OBA_2045210,brain attribute
+GCST90321120,OBA_1000110,bone tissue density
+GCST90321121,OBA_1000110,bone tissue density
+GCST90328132,MONDO_0020804,basal cell carcinoma
+GCST90335164,EFO_0006336,diastolic blood pressure
+GCST90335165,EFO_0006336,diastolic blood pressure
+GCST90335166,EFO_0005763,pulse pressure measurement
+GCST90384979,EFO_0004346,neuroimaging measurement
+GCST90387524,EFO_0004346,neuroimaging measurement
+GCST90387525,EFO_0004346,neuroimaging measurement
+GCST90387540,EFO_0004346,neuroimaging measurement
+GCST90387542,EFO_0004346,neuroimaging measurement
+GCST90387812,EFO_0004346,neuroimaging measurement
+GCST90387844,EFO_0004346,neuroimaging measurement
+GCST90387877,EFO_0004346,neuroimaging measurement
+GCST90387925,EFO_0004346,neuroimaging measurement
+GCST90387959,EFO_0004346,neuroimaging measurement
+GCST90387969,EFO_0004346,neuroimaging measurement
+GCST90388001,EFO_0004346,neuroimaging measurement
+GCST90388003,EFO_0004346,neuroimaging measurement
+GCST90388039,EFO_0004346,neuroimaging measurement
+GCST90388127,EFO_0004346,neuroimaging measurement
+GCST90388196,EFO_0004346,neuroimaging measurement
+GCST90388285,EFO_0004346,neuroimaging measurement
+GCST90388322,EFO_0004346,neuroimaging measurement
+GCST90388443,EFO_0004346,neuroimaging measurement
+GCST90388510,EFO_0004346,neuroimaging measurement
+GCST90388545,EFO_0004346,neuroimaging measurement
+GCST90388567,EFO_0004346,neuroimaging measurement
+GCST90388618,EFO_0004346,neuroimaging measurement
+GCST90388952,EFO_0004346,neuroimaging measurement
+GCST90389120,EFO_0004346,neuroimaging measurement
+GCST90389240,EFO_0004346,neuroimaging measurement
+GCST90399470,MONDO_0005338,open-angle glaucoma
+GCST90399685,MONDO_0004979,asthma
+GCST90399686,MONDO_0004979,asthma
+GCST90399687,MONDO_0004979,asthma
+GCST90399689,MONDO_0004979,asthma
+GCST90399690,MONDO_0004979,asthma
+GCST90399839,EFO_0004340,body mass index
+GCST90399839,MONDO_0100096,COVID-19
+GCST90399854,EFO_0003892,pulmonary function measurement
+GCST90399863,EFO_0003892,pulmonary function measurement
+GCST90399896,EFO_0004840,cortical thickness
+GCST90428120,EFO_0004995,lean body mass
+GCST90428446,OBA_0003747,glomerular filtration rate
+GCST90428447,OBA_0003747,glomerular filtration rate
+GCST90428448,OBA_0003747,glomerular filtration rate
+GCST90428597,MONDO_0005393,gout
+GCST90428729,OBA_2050062,serum alanine aminotransferase amount
+GCST90428730,EFO_0004532,serum gamma-glutamyl transferase measurement
+GCST90429571,EFO_0004344,birth weight
+GCST90429575,EFO_0004995,lean body mass
+GCST90429580,EFO_0004995,lean body mass
+GCST90429583,EFO_0004995,lean body mass
+GCST90429585,EFO_0004995,lean body mass
+GCST90429589,OBA_0004528,fat pad mass
+GCST90429595,EFO_0004995,lean body mass
+GCST90429596,EFO_0010967,urinary microalbumin measurement
+GCST90429601,OBA_0003747,glomerular filtration rate
+GCST90429602,EFO_0004468,glucose measurement
+GCST90429603,EFO_0004327,electrocardiography
+GCST90429605,EFO_0009804,pulse wave reflection index measurement
+GCST90429606,EFO_0006941,grip strength measurement
+GCST90429608,EFO_0004517,arterial stiffness measurement
+GCST90429609,EFO_0004570,bilirubin measurement
+GCST90429610,EFO_0004908,testosterone measurement
+GCST90429790,EFO_0004338,body weight
+GCST90430109,EFO_0004346,neuroimaging measurement
+GCST90430646,EFO_0004346,neuroimaging measurement
+GCST90432047,EFO_0004346,neuroimaging measurement
+GCST90432061,MONDO_0005391,restless legs syndrome
+GCST90432179,EFO_0007800,body fat percentage
+GCST90432180,EFO_0007800,body fat percentage
+GCST90435144,OBA_0003784,
+GCST90435413,EFO_0004340,body mass index
+GCST90435414,EFO_0006336,diastolic blood pressure
+GCST90435415,EFO_0006335,systolic blood pressure
+GCST90435594,MONDO_0002898,skin cancer
+GCST90436077,MONDO_0005267,heart disorder
+GCST90436081,MONDO_0005267,heart disorder
+GCST90436690,HP_0100537,Fasciitis
+GCST90436691,EFO_0004229,Dupuytren Contracture
+GCST90444202,MONDO_0005148,type 2 diabetes mellitus
+GCST90444427,EFO_0004574,total cholesterol measurement
+GCST90444430,EFO_0004761,uric acid measurement
+GCST90444488,EFO_0000195,metabolic syndrome
+GCST90445836,EFO_0009765,alanine measurement
+GCST90445864,EFO_0004529,lipid measurement
+GCST90445868,EFO_0009769,histidine measurement
+GCST90445872,EFO_0021899,cholesterol in IDL measurement
+GCST90445873,EFO_0022233,cholesterol to total lipids in IDL percentage
+GCST90445878,EFO_0022161,total lipids in IDL
+GCST90445889,EFO_0004574,total cholesterol measurement
+GCST90445894,EFO_0022266,free cholesterol in LDL measurement
+GCST90445896,EFO_0004529,lipid measurement
+GCST90445903,EFO_0004529,lipid measurement
+GCST90445913,EFO_0022279,free cholesterol to total lipids in large HDL percentage
+GCST90445919,EFO_0022330,triglycerides to total lipids in large HDL percentage
+GCST90445928,EFO_0022280,free cholesterol to total lipids in large LDL percentage
+GCST90445936,EFO_0004574,total cholesterol measurement
+GCST90445946,EFO_0022169,phospholipids in large VLDL measurement
+GCST90445948,EFO_0022178,triglycerides in large VLDL measurement
+GCST90445950,EFO_0010351,cholesteryl ester measurement
+GCST90445959,EFO_0022310,total lipids in medium HDL measurement
+GCST90445961,EFO_0022295,phospholipids in medium HDL measurement
+GCST90445967,EFO_0022252,cholesteryl esters to total lipids in medium LDL percentage
+GCST90445971,EFO_0022268,free cholesterol in medium LDL measurement
+GCST90445975,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90445981,EFO_0022187,
+GCST90445984,EFO_0022253,cholesteryl esters to total lipids in medium VLDL percentage
+GCST90445988,EFO_0022269,free cholesterol in medium VLDL measurement
+GCST90445989,EFO_0004574,total cholesterol measurement
+GCST90445991,EFO_0022153,total lipids in medium VLDL
+GCST90446002,EFO_0005680,omega-6 polyunsaturated fatty acid measurement
+GCST90446015,EFO_0010351,cholesteryl ester measurement
+GCST90446025,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90446033,EFO_0022227,cholesterol in small LDL measurement
+GCST90446059,EFO_0022145,triglycerides in small VLDL measurement
+GCST90446062,EFO_0005134,amino acid measurement
+GCST90446094,EFO_0004529,lipid measurement
+GCST90446095,OBA_2050114,VLDL particle size
+GCST90446099,EFO_0004574,total cholesterol measurement
+GCST90446102,EFO_0022243,cholesterol to total lipids in very large HDL percentage
+GCST90446106,EFO_0022288,free cholesterol to total lipids in very large HDL percentage
+GCST90446113,EFO_0010351,cholesteryl ester measurement
+GCST90446116,EFO_0022230,cholesterol in very large VLDL measurement
+GCST90446133,EFO_0004529,lipid measurement
+GCST90446136,EFO_0022290,free cholesterol to total lipids in very small VLDL percentage
+GCST90446139,EFO_0022300,phospholipids in very small VLDL measurement
+GCST90446147,EFO_0022232,cholesterol to total lipids in chylomicrons and extremely large VLDL percentage
+GCST90446156,EFO_0022316,triglycerides in chylomicrons and extremely large VLDL measurement
+GCST90446214,OBA_VT0005265,blood urea nitrogen amount
+GCST90446214,MONDO_0002009,major depressive disorder
+GCST90446230,OBA_0003784,
+GCST90446230,MONDO_0100096,COVID-19
+GCST90446470,MONDO_0005494,triple-negative breast carcinoma
+GCST90446470,MONDO_0021116,luminal A breast carcinoma
+GCST90446535,MONDO_0004995,cardiovascular disorder
+GCST90446633,OBA_1000110,bone tissue density
+GCST90446635,OBA_1000110,bone tissue density
+GCST90446636,EFO_0020104,pelvis bone mineral density
+GCST90446640,OBA_1000110,bone tissue density
+GCST90446644,OBA_1000110,bone tissue density
+GCST90446758,EFO_0010554,retinal vasculature measurement
+GCST90446764,EFO_0010554,retinal vasculature measurement
+GCST90446767,EFO_0010554,retinal vasculature measurement
+GCST90446768,EFO_0010554,retinal vasculature measurement
+GCST90446792,MONDO_0005011,Crohn disease
+GCST90446793,MONDO_0005011,Crohn disease
+GCST90446794,MONDO_0005101,ulcerative colitis
+GCST90446795,MONDO_0005101,ulcerative colitis
+GCST90448620,EFO_0005091,monocyte count
+GCST90448625,EFO_0004305,erythrocyte count
+GCST90448632,EFO_0004536,total blood protein measurement
+GCST90448682,OBA_1000968,vitamin D level
+GCST90448911,EFO_0004685,hip geometry
+GCST90449056,EFO_0006335,systolic blood pressure
+GCST90449057,EFO_0006336,diastolic blood pressure
+GCST90449121,EFO_0004298,cardiovascular measurement
+GCST90451684,EFO_0004460,soluble transferrin receptor measurement
+GCST90451698,MONDO_0005148,type 2 diabetes mellitus
+GCST90451698,MONDO_0005010,coronary artery disorder
+GCST90451723,OBA_2050096,serum creatinine amount
+GCST90451723,EFO_0005116,urinary metabolite measurement
+GCST90454176,MONDO_0007186,gastroesophageal reflux disease
+GCST90454176,EFO_0004312,vital capacity
+GCST90454202,MONDO_0005131,cervical carcinoma
+GCST90454203,MONDO_0021068,ovarian neoplasm
+GCST90454206,MONDO_0001889,ovarian dysfunction
+GCST90454231,MONDO_0005081,preeclampsia
+GCST90454232,MONDO_0005081,preeclampsia
+GCST90454233,MONDO_0005081,preeclampsia
+GCST90454236,MONDO_0005406,gestational diabetes
+GCST90454237,MONDO_0005154,liver disorder
+GCST90454239,MONDO_0005918,placenta praevia
+GCST90454240,MONDO_0004846,placental abruption
+GCST90454241,EFO_0009681,post term pregnancy
+GCST90454242,EFO_0003917,premature birth
+GCST90454243,EFO_0009578,placental retention
+GCST90454345,MONDO_0021116,luminal A breast carcinoma
+GCST90454507,MONDO_0100096,COVID-19
+GCST90454587,MONDO_0004985,bipolar disorder
+GCST90454587,MONDO_0005101,ulcerative colitis
+GCST90455669,EFO_0004531,urate measurement
+GCST90455676,MONDO_0005393,gout
+GCST90461907,OBA_2050200,prostate specific antigen amount
+GCST90468065,EFO_0004838,calcium measurement
+GCST90468108,OBA_2050065,serum urea amount
+GCST90468126,HP_0000964,Eczematoid dermatitis
+GCST90468273,OBA_2050484,level of aldo-keto reductase family 1 member B1 in blood
+GCST90472780,EFO_0006335,systolic blood pressure
+GCST90472783,EFO_0005763,pulse pressure measurement
+GCST90474912,OBA_2050034,amygdala volume
+GCST90474930,OBA_2050034,amygdala volume
+GCST90475091,EFO_0004541,HbA1c measurement
+GCST90475094,EFO_0004541,HbA1c measurement
+GCST90475096,EFO_0004541,HbA1c measurement
+GCST90475097,EFO_0004541,HbA1c measurement
+GCST90475100,OBA_2050068,serum albumin amount
+GCST90475103,OBA_2050068,serum albumin amount
+GCST90475106,OBA_2050068,serum albumin amount
+GCST90475109,OBA_2050062,serum alanine aminotransferase amount
+GCST90475110,OBA_2050062,serum alanine aminotransferase amount
+GCST90475112,OBA_2050062,serum alanine aminotransferase amount
+GCST90475114,OBA_2050062,serum alanine aminotransferase amount
+GCST90475115,OBA_2050062,serum alanine aminotransferase amount
+GCST90475121,EFO_0010934,aspartate aminotransferase to alanine aminotransferase ratio
+GCST90475124,EFO_0010934,aspartate aminotransferase to alanine aminotransferase ratio
+GCST90475127,EFO_0803539,basophil measurement
+GCST90475133,EFO_0803539,basophil measurement
+GCST90475135,EFO_0803539,basophil measurement
+GCST90475136,EFO_0803539,basophil measurement
+GCST90475139,EFO_0803539,basophil measurement
+GCST90475141,EFO_0803539,basophil measurement
+GCST90475142,EFO_0803539,basophil measurement
+GCST90475144,OBA_2050094,blood sodium bicarbonate amount
+GCST90475145,OBA_2050094,blood sodium bicarbonate amount
+GCST90475147,OBA_2050094,blood sodium bicarbonate amount
+GCST90475148,OBA_2050094,blood sodium bicarbonate amount
+GCST90475159,EFO_0004340,body mass index
+GCST90475162,OBA_VT0005265,blood urea nitrogen amount
+GCST90475164,OBA_VT0005265,blood urea nitrogen amount
+GCST90475165,OBA_VT0005265,blood urea nitrogen amount
+GCST90475168,OBA_VT0005265,blood urea nitrogen amount
+GCST90475192,OBA_1000959,chloride level
+GCST90475194,OBA_1000959,chloride level
+GCST90475197,OBA_1000959,chloride level
+GCST90475226,OBA_2050096,serum creatinine amount
+GCST90475228,OBA_2050096,serum creatinine amount
+GCST90475229,OBA_2050096,serum creatinine amount
+GCST90475232,OBA_2050096,serum creatinine amount
+GCST90475252,EFO_0006336,diastolic blood pressure
+GCST90475255,EFO_0006945,diastolic blood pressure change measurement
+GCST90475280,OBA_0003747,glomerular filtration rate
+GCST90475282,OBA_0003747,glomerular filtration rate
+GCST90475284,OBA_0003747,glomerular filtration rate
+GCST90475285,OBA_0003747,glomerular filtration rate
+GCST90475288,EFO_0004842,eosinophil count
+GCST90475289,EFO_0004842,eosinophil count
+GCST90475290,EFO_0004842,eosinophil count
+GCST90475291,EFO_0004842,eosinophil count
+GCST90475294,EFO_0004842,eosinophil count
+GCST90475295,EFO_0004842,eosinophil count
+GCST90475297,EFO_0004842,eosinophil count
+GCST90475299,EFO_0004842,eosinophil count
+GCST90475300,EFO_0004842,eosinophil count
+GCST90475303,EFO_0004842,eosinophil count
+GCST90475305,OBA_2045235,blood sedimentation trait
+GCST90475329,EFO_0004468,glucose measurement
+GCST90475331,EFO_0004468,glucose measurement
+GCST90475332,EFO_0004468,glucose measurement
+GCST90475337,EFO_0004348,hematocrit
+GCST90475338,EFO_0004348,hematocrit
+GCST90475341,EFO_0004348,hematocrit
+GCST90475348,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90475349,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90475351,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90475372,EFO_0004509,hemoglobin measurement
+GCST90475376,EFO_0004509,hemoglobin measurement
+GCST90475380,EFO_0004509,hemoglobin measurement
+GCST90475382,MONDO_0005129,cataract
+GCST90475383,MONDO_0005041,glaucoma
+GCST90475392,EFO_0008390,prothrombin time measurement
+GCST90475393,EFO_0008390,prothrombin time measurement
+GCST90475396,EFO_0008390,prothrombin time measurement
+GCST90475404,OBA_2050055,serum iron amount
+GCST90475412,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90475416,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90475419,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90475420,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90475423,EFO_0004587,lymphocyte count
+GCST90475426,EFO_0004587,lymphocyte count
+GCST90475429,EFO_0004587,lymphocyte count
+GCST90475431,EFO_0004587,lymphocyte count
+GCST90475432,EFO_0004587,lymphocyte count
+GCST90475434,EFO_0004587,lymphocyte count
+GCST90475435,EFO_0004587,lymphocyte count
+GCST90475438,EFO_0004587,lymphocyte count
+GCST90475439,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90475443,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90475450,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90475454,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90475458,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90475459,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90475462,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90475466,OBA_0003460,erythrocyte volume
+GCST90475469,OBA_0003460,erythrocyte volume
+GCST90475470,OBA_0003460,erythrocyte volume
+GCST90475474,OBA_0003460,erythrocyte volume
+GCST90475482,EFO_0004845,magnesium measurement
+GCST90475498,EFO_0005091,monocyte count
+GCST90475499,EFO_0005091,monocyte count
+GCST90475500,EFO_0005091,monocyte count
+GCST90475501,EFO_0005091,monocyte count
+GCST90475502,EFO_0005091,monocyte count
+GCST90475504,EFO_0005091,monocyte count
+GCST90475505,EFO_0005091,monocyte count
+GCST90475507,EFO_0005091,monocyte count
+GCST90475508,EFO_0005091,monocyte count
+GCST90475510,EFO_0005091,monocyte count
+GCST90475511,EFO_0005091,monocyte count
+GCST90475513,EFO_0005091,monocyte count
+GCST90475514,EFO_0005091,monocyte count
+GCST90475516,OBA_0003277,platelet volume
+GCST90475517,OBA_0003277,platelet volume
+GCST90475519,OBA_0003277,platelet volume
+GCST90475520,OBA_0003277,platelet volume
+GCST90475521,OBA_0003277,platelet volume
+GCST90475523,OBA_0003277,platelet volume
+GCST90475525,EFO_0004833,neutrophil count
+GCST90475526,EFO_0004833,neutrophil count
+GCST90475527,EFO_0004833,neutrophil count
+GCST90475528,EFO_0004833,neutrophil count
+GCST90475529,EFO_0004833,neutrophil count
+GCST90475530,EFO_0004833,neutrophil count
+GCST90475531,EFO_0004833,neutrophil count
+GCST90475532,EFO_0004833,neutrophil count
+GCST90475534,EFO_0004833,neutrophil count
+GCST90475538,EFO_0004833,neutrophil count
+GCST90475541,EFO_0004833,neutrophil count
+GCST90475610,MONDO_0000612,lymphatic system cancer
+GCST90475640,MONDO_0001658,nontoxic goiter
+GCST90475657,MONDO_0005015,diabetes mellitus
+GCST90475909,MONDO_0005365,hearing loss disorder
+GCST90475993,MONDO_0005160,aortic aneurysm
+GCST90476010,EFO_0003907,deep vein thrombosis
+GCST90476178,MONDO_0006604,rosacea
+GCST90476202,MONDO_0005093,skin disorder
+GCST90476241,MONDO_0056802,synovial bursa disorder
+GCST90476246,MONDO_0005382,bone Paget disease
+GCST90476295,EFO_0004309,platelet count
+GCST90476296,EFO_0004309,platelet count
+GCST90476298,EFO_0004309,platelet count
+GCST90476299,EFO_0004309,platelet count
+GCST90476300,EFO_0004309,platelet count
+GCST90476301,EFO_0004309,platelet count
+GCST90476302,EFO_0004309,platelet count
+GCST90476307,EFO_0009283,potassium measurement
+GCST90476310,EFO_0009283,potassium measurement
+GCST90476316,OBA_2050200,prostate specific antigen amount
+GCST90476319,OBA_2050200,prostate specific antigen amount
+GCST90476338,OBA_1001087,heart rate
+GCST90476341,OBA_1001087,heart rate
+GCST90476345,EFO_0004305,erythrocyte count
+GCST90476348,EFO_0004305,erythrocyte count
+GCST90476349,EFO_0004305,erythrocyte count
+GCST90476352,EFO_0004305,erythrocyte count
+GCST90476353,EFO_0004305,erythrocyte count
+GCST90476356,EFO_0009188,Red cell distribution width
+GCST90476357,EFO_0009188,Red cell distribution width
+GCST90476360,EFO_0009188,Red cell distribution width
+GCST90476361,EFO_0009188,Red cell distribution width
+GCST90476364,EFO_0009188,Red cell distribution width
+GCST90476365,EFO_0009188,Red cell distribution width
+GCST90476394,EFO_0009282,sodium measurement
+GCST90476395,EFO_0009282,sodium measurement
+GCST90476400,EFO_0006335,systolic blood pressure
+GCST90476401,EFO_0006335,systolic blood pressure
+GCST90476403,EFO_0006335,systolic blood pressure
+GCST90476404,EFO_0006335,systolic blood pressure
+GCST90476420,EFO_0004574,total cholesterol measurement
+GCST90476424,EFO_0004574,total cholesterol measurement
+GCST90476426,EFO_0004574,total cholesterol measurement
+GCST90476427,EFO_0004574,total cholesterol measurement
+GCST90476430,EFO_0004530,triglyceride measurement
+GCST90476431,EFO_0004530,triglyceride measurement
+GCST90476434,EFO_0004530,triglyceride measurement
+GCST90476435,EFO_0004530,triglyceride measurement
+GCST90476439,EFO_0004530,triglyceride measurement
+GCST90476462,EFO_0004338,body weight
+GCST90476465,EFO_0004338,body weight
+GCST90476469,EFO_0004338,body weight
+GCST90479141,EFO_0009373,edema
+GCST90479236,EFO_0009582,sprain
+GCST90479475,EFO_0009282,sodium measurement
+GCST90479501,EFO_0004541,HbA1c measurement
+GCST90479502,EFO_0004541,HbA1c measurement
+GCST90479504,OBA_2050068,serum albumin amount
+GCST90479508,OBA_2050062,serum alanine aminotransferase amount
+GCST90479510,EFO_0010934,aspartate aminotransferase to alanine aminotransferase ratio
+GCST90479511,EFO_0010934,aspartate aminotransferase to alanine aminotransferase ratio
+GCST90479513,EFO_0803539,basophil measurement
+GCST90479515,EFO_0803539,basophil measurement
+GCST90479516,EFO_0803539,basophil measurement
+GCST90479517,EFO_0803539,basophil measurement
+GCST90479521,EFO_0004340,body mass index
+GCST90479522,EFO_0004340,body mass index
+GCST90479523,EFO_0004340,body mass index
+GCST90479524,OBA_VT0005265,blood urea nitrogen amount
+GCST90479525,OBA_VT0005265,blood urea nitrogen amount
+GCST90479529,EFO_0004838,calcium measurement
+GCST90479530,EFO_0004838,calcium measurement
+GCST90479531,EFO_0004838,calcium measurement
+GCST90479538,MONDO_0002898,skin cancer
+GCST90479543,MONDO_0005010,coronary artery disorder
+GCST90479561,OBA_2050096,serum creatinine amount
+GCST90479562,OBA_2050096,serum creatinine amount
+GCST90479563,OBA_2050096,serum creatinine amount
+GCST90479578,MONDO_0005090,schizophrenia
+GCST90479578,EFO_0000493,family history
+GCST90479579,EFO_0009268,family history of Alzheimer’s disease
+GCST90479581,EFO_0006945,diastolic blood pressure change measurement
+GCST90479590,EFO_0007010,drug use measurement
+GCST90479590,MONDO_0005154,liver disorder
+GCST90479596,EFO_0007010,drug use measurement
+GCST90479596,MONDO_0003240,thyroid gland disorder
+GCST90479599,OBA_0003747,glomerular filtration rate
+GCST90479600,OBA_0003747,glomerular filtration rate
+GCST90479601,EFO_0004842,eosinophil count
+GCST90479602,EFO_0004842,eosinophil count
+GCST90479603,EFO_0004842,eosinophil count
+GCST90479604,EFO_0004842,eosinophil count
+GCST90479606,EFO_0004842,eosinophil count
+GCST90479618,MONDO_0021400,polyp of colon
+GCST90479625,EFO_0004468,glucose measurement
+GCST90479627,EFO_0004468,glucose measurement
+GCST90479628,EFO_0004348,hematocrit
+GCST90479631,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90479632,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90479633,EFO_0004612,high density lipoprotein cholesterol measurement
+GCST90479639,EFO_0004509,hemoglobin measurement
+GCST90479660,EFO_0004611,low density lipoprotein cholesterol measurement
+GCST90479663,EFO_0004587,lymphocyte count
+GCST90479665,EFO_0004587,lymphocyte count
+GCST90479666,EFO_0004587,lymphocyte count
+GCST90479667,EFO_0004587,lymphocyte count
+GCST90479671,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90479672,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90479673,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90479674,EFO_0004528,mean corpuscular hemoglobin concentration
+GCST90479675,OBA_0003460,erythrocyte volume
+GCST90479676,OBA_0003460,erythrocyte volume
+GCST90479677,OBA_0003460,erythrocyte volume
+GCST90479699,MONDO_0005090,schizophrenia
+GCST90479699,EFO_0000493,family history
+GCST90479701,EFO_0005091,monocyte count
+GCST90479702,EFO_0005091,monocyte count
+GCST90479703,EFO_0005091,monocyte count
+GCST90479704,EFO_0005091,monocyte count
+GCST90479705,EFO_0005091,monocyte count
+GCST90479706,EFO_0005091,monocyte count
+GCST90479707,OBA_0003277,platelet volume
+GCST90479708,OBA_0003277,platelet volume
+GCST90479709,OBA_0003277,platelet volume
+GCST90479710,EFO_0004833,neutrophil count
+GCST90479711,EFO_0004833,neutrophil count
+GCST90479712,EFO_0004833,neutrophil count
+GCST90479715,EFO_0004833,neutrophil count
+GCST90479716,EFO_0007010,drug use measurement
+GCST90479716,MONDO_0004976,amyotrophic lateral sclerosis
+GCST90479735,MONDO_0005154,liver disorder
+GCST90479735,EFO_0000493,family history
+GCST90479749,MONDO_0005071,nervous system disorder
+GCST90479749,EFO_0009518,complication
+GCST90479749,MONDO_0005609,herpes zoster
+GCST90479752,EFO_0008496,chronic hepatitis
+GCST90479760,EFO_0000719,temporal measurement
+GCST90479771,MONDO_0002428,protozoa infectious disease
+GCST90479783,MONDO_0005575,colorectal cancer
+GCST90479792,MONDO_0021581,connective tissue neoplasm
+GCST90479792,MONDO_0019060,bone neoplasm
+GCST90479797,MONDO_0002531,skin neoplasm
+GCST90479799,MONDO_0002531,skin neoplasm
+GCST90479809,MONDO_0001187,urinary bladder cancer
+GCST90479812,MONDO_0001657,brain cancer
+GCST90479814,MONDO_0002714,central nervous system cancer
+GCST90479818,MONDO_0005627,head and neck cancer
+GCST90479821,MONDO_0024881,secondary malignant neoplasm
+GCST90479827,MONDO_0004952,Hodgkins lymphoma
+GCST90479830,MONDO_0005402,lymphoid leukemia
+GCST90479833,MONDO_0009693,plasma cell myeloma
+GCST90479839,MONDO_0024470,benign chondrogenic neoplasm
+GCST90479853,MONDO_0006107,benign thyroid gland neoplasm
+GCST90479861,MONDO_0000334,multinodular goiter
+GCST90479875,MONDO_0012819,diabetic ketoacidosis
+GCST90479876,EFO_0004996,type 1 diabetes nephropathy
+GCST90479883,MONDO_0006626,diabetic neuropathy
+GCST90479891,MONDO_0005266,diabetic retinopathy
+GCST90479896,MONDO_0006793,hyperpituitarism
+GCST90479897,MONDO_0005152,hypopituitarism
+GCST90479904,MONDO_0005495,adrenal gland disorder
+GCST90479907,HP_0000823,Delayed puberty
+GCST90479911,MONDO_0000833,bone remodeling disease
+GCST90479946,HP_0001948,Alkalosis
+GCST90479953,MONDO_0011122,obesity disorder
+GCST90479960,HP_0001891,Iron deficiency anemia
+GCST90479967,MONDO_0021559,non-autoimmune hemolytic anemia
+GCST90480023,MONDO_0001291,brain compression
+GCST90480023,EFO_0009373,edema
+GCST90480034,MONDO_0005071,nervous system disorder
+GCST90480038,MONDO_0004390,ocular hypotension
+GCST90480109,MONDO_0002409,auditory system disorder
+GCST90480111,HP_0002321,Vertigo
+GCST90480125,MONDO_0001134,essential hypertension
+GCST90480128,MONDO_0005044,hypertensive disorder
+GCST90480130,MONDO_0005068,myocardial infarction
+GCST90480132,MONDO_0021661,coronary atherosclerosis
+GCST90480134,MONDO_0005010,coronary artery disorder
+GCST90480150,MONDO_0004994,cardiomyopathy
+GCST90480158,HP_0011713,Left bundle branch block
+GCST90480170,MONDO_0004981,atrial fibrillation
+GCST90480173,EFO_0009492,cardiac arrest
+GCST90480184,MONDO_0005009,congestive heart failure
+GCST90480194,MONDO_0005291,brain aneurysm
+GCST90480211,EFO_0010671,arterial embolism
+GCST90480232,MONDO_0024355,respiratory tract infectious disorder
+GCST90480234,MONDO_0001369,chronic laryngitis
+GCST90480236,MONDO_0020686,acute tonsillitis
+GCST90480238,MONDO_0005961,sinusitis
+GCST90480241,HP_0012531,Pain
+GCST90480265,EFO_0010720,invasive mechanical ventilation
+GCST90480276,MONDO_0006999,tooth disorder
+GCST90480277,MONDO_0006999,tooth disorder
+GCST90480280,MONDO_0005473,temporomandibular joint disorder
+GCST90480285,MONDO_0005230,cellulitis
+GCST90480285,MONDO_0005227,abscess
+GCST90480287,MONDO_0006970,sialolithiasis
+GCST90480301,MONDO_0006665,chronic atrophic gastritis
+GCST90480302,MONDO_0004627,duodenitis
+GCST90480316,HP_0004299,Hernia of the abdominal wall
+GCST90480317,MONDO_0043579,enteritis
+GCST90480318,MONDO_0005101,ulcerative colitis
+GCST90480321,MONDO_0005385,vascular disorder
+GCST90480346,HP_0001392,Abnormality of the liver
+GCST90480349,MONDO_0012672,cholelithiasis
+GCST90480355,MONDO_0004868,biliary tract disorder
+GCST90480369,MONDO_0001166,nephritis
+GCST90480370,HP_0000112,Nephropathy
+GCST90480370,MONDO_0001166,nephritis
+GCST90480388,MONDO_0005240,kidney disorder
+GCST90480393,HP_0002907,Microscopic hematuria
+GCST90480395,MONDO_0008171,nephrolithiasis
+GCST90480406,MONDO_0010811,benign prostatic hyperplasia
+GCST90480414,MONDO_0006977,spermatocele
+GCST90480423,MONDO_0000620,breast benign neoplasm
+GCST90480425,HP_0010313,Breast hypertrophy
+GCST90480456,MONDO_0005093,skin disorder
+GCST90480457,MONDO_0005093,skin disorder
+GCST90480460,MONDO_0005083,psoriasis
+GCST90480461,MONDO_0005083,psoriasis
+GCST90480464,MONDO_0005093,skin disorder
+GCST90480466,MONDO_0005348,keloid
+GCST90480474,HP_0001007,Hirsutism
+GCST90480488,MONDO_0005854,mixed connective tissue disease
+GCST90480497,MONDO_0003900,connective tissue disorder
+GCST90480525,MONDO_0005382,bone Paget disease
+GCST90480527,EFO_0005802,cartilage disease
+GCST90480539,HP_0002970,Genu varum
+GCST90480539,HP_0002857,Genu valgum
+GCST90480544,MONDO_0005178,osteoarthritis
+GCST90480582,HP_0000118,Phenotypic abnormality
+GCST90480588,HP_0040064,Abnormality of limbs
+GCST90480596,EFO_0009617,knee fracture
+GCST90480599,MONDO_0005319,humerus fracture
+GCST90480611,EFO_0009519,device complication
+GCST90480615,EFO_0005756,skin wound
+GCST90480618,MONDO_0006999,tooth disorder
+GCST90480624,MONDO_0700226,food allergy
+GCST90480630,MONDO_0043797,spinal cord injury
+GCST90480631,EFO_0002571,medical procedure
+GCST90480631,EFO_0009888,trauma complication
+GCST90480631,EFO_0009518,complication
+GCST90480632,GO_0009410,response to xenobiotic stimulus
+GCST90480646,MONDO_0029000,poisoning
+GCST90480650,EFO_0004309,platelet count
+GCST90480651,EFO_0004309,platelet count
+GCST90480652,EFO_0004309,platelet count
+GCST90480653,EFO_0009283,potassium measurement
+GCST90480654,EFO_0009283,potassium measurement
+GCST90480661,OBA_2050200,prostate specific antigen amount
+GCST90480664,EFO_0008390,prothrombin time measurement
+GCST90480666,OBA_1001087,heart rate
+GCST90480667,OBA_1001087,heart rate
+GCST90480668,EFO_0004305,erythrocyte count
+GCST90480670,EFO_0004305,erythrocyte count
+GCST90480671,EFO_0009188,Red cell distribution width
+GCST90480672,EFO_0009188,Red cell distribution width
+GCST90480673,EFO_0009188,Red cell distribution width
+GCST90480705,EFO_0006335,systolic blood pressure
+GCST90480708,EFO_0004534,creatine kinase measurement
+GCST90480714,EFO_0004574,total cholesterol measurement
+GCST90480717,EFO_0004530,triglyceride measurement
+GCST90480718,EFO_0004530,triglyceride measurement
+GCST90480719,EFO_0004530,triglyceride measurement
+GCST90480726,EFO_0004338,body weight
+GCST90480727,EFO_0004338,body weight
+GCST90480728,EFO_0004338,body weight
+GCST90480769,MONDO_0008575,nicotine dependence
+GCST90480826,MONDO_0005230,cellulitis
+GCST90480826,MONDO_0005227,abscess
+GCST90480875,MONDO_0005020,intestinal disorder
+GCST90480880,MONDO_0012672,cholelithiasis
+GCST90480880,HP_0001082,Cholecystitis
+GCST90480886,MONDO_0005066,metabolic disease
+GCST90480899,MONDO_0002118,urinary system disorder
+GCST90480963,MONDO_0100073,methicillin-resistant staphylococcus aureus infectious disease
+GCST90480975,EFO_0009582,sprain
+GCST90480982,EFO_0009516,burn
+GCST90481021,MONDO_0005178,osteoarthritis
+GCST90481041,MONDO_0024881,secondary malignant neoplasm
+GCST90482709,EFO_0004685,hip geometry
+GCST90483310,EFO_0006808,arachidonic acid measurement
+GCST90483310,OBA_1001085,waist circumference
+GCST90483486,EFO_0004908,testosterone measurement
+GCST90483487,EFO_0004908,testosterone measurement
+GCST90483491,OBA_1001009,Luteinizing hormone level
+GCST90483498,EFO_0004908,testosterone measurement
+GCST90483499,EFO_0004908,testosterone measurement
+GCST90492734,MONDO_0005148,type 2 diabetes mellitus
+GCST90503108,MONDO_0004980,atopic eczema
+GCST90503210,MONDO_0005090,schizophrenia
+GCST90503449,EFO_0010789,monocyte chemotactic protein-2 measurement
+GCST90503484,MONDO_0019338,sarcoidosis
+GCST90528021,OBA_2050110,retinal layer thickness
+GCST90528048,OBA_2050110,retinal layer thickness
+GCST90554824,OBA_2050111,retinal nerve fibre layer thickness
+GCST90559230,MONDO_0004981,atrial fibrillation
+GCST90565588,OBA_2040083,trait in response to thiazide
+GCST90565588,EFO_0004468,glucose measurement
+GCST90565680,EFO_0007985,platelet crit
+GCST90565687,OBA_0002272,reticulocyte amount
+GCST90566711,OBA_0003747,glomerular filtration rate
+GCST90566712,OBA_0003747,glomerular filtration rate
+GCST90566721,OBA_2050096,serum creatinine amount
+GCST90566724,OBA_0003747,glomerular filtration rate
+GCST90566730,OBA_0003747,glomerular filtration rate
+GCST90566732,OBA_0003747,glomerular filtration rate
+GCST90566735,OBA_0003747,glomerular filtration rate
+GCST90566737,OBA_0003747,glomerular filtration rate
+GCST90566738,OBA_0003747,glomerular filtration rate
+GCST90566743,OBA_0003747,glomerular filtration rate
+GCST90566745,OBA_2050096,serum creatinine amount
+GCST90566746,EFO_0004617,cystatin C measurement
+GCST90566795,MONDO_0005178,osteoarthritis
+GCST90566798,MONDO_0006629,
+GCST90566799,MONDO_0006629,
+GCST90566799,MONDO_0005416,
+GCST90566800,MONDO_0005416,
+GCST90566802,MONDO_0006629,
+GCST90566802,EFO_0009806,
+GCST90566804,MONDO_0006629,
+GCST90566804,EFO_0010726,
+GCST90566804,MONDO_0005416,

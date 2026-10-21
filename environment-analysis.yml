@@ -1,0 +1,17 @@
+# Environment for everything except the sampler: simulating the data (simulation/),
+# the regression comparator (benchmarking/regression.py), and the post-processing,
+# figures and tables (real_data/, simulation/). These are the versions that reproduce
+# the paper's outputs byte for byte; the network layout of Figure 3A in particular
+# depends on networkx and numpy. The sampler (spark/) uses environment.yml.
+name: spark-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14.2
+  - numpy=2.3.5
+  - scipy=1.17.0
+  - pandas=2.3.3
+  - matplotlib=3.10.8
+  - networkx=3.6.1
+  - scikit-learn=1.8.0    # regularized-regression comparator
+  - zstandard=0.25.0      # reading the compressed sampler output (.pkl.zst)

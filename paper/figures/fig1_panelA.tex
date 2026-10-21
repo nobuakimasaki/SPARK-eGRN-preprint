@@ -1,0 +1,37 @@
+% Figure 1, panel A: the data. Deliberately minimal; the experimental design of
+% the m16h dataset belongs in the real-data section, not here. The column groups
+% introduce the three node types, and their order (TFs, genes, enhancers) is the
+% order used by the matrices in panels B and E. Everything else is caption work.
+% Local origin is the panel's top-left corner. Panel size 5.3 x 4.8.
+\draw[panel] (0,0) rectangle (5.3,-4.8);
+\node[ttl] at (0.15,-0.12) {A\quad Single-cell multiome data};
+
+% Shift measured with the frame and the panel letter excluded, so the
+% drawing sits centred in the space below the letter rather than wherever
+% its coordinates happened to put it.
+\begin{scope}[shift={(+0.148,+0.630)}]  % centre the panel contents
+
+
+\begin{scope}[shift={(1.20,-1.75)}]
+  \def\cw{0.32}
+  \def\ch{0.22}
+  \pgfmathsetseed{7}
+  \foreach \r in {1,...,14}{
+    \foreach \c in {1,...,9}{
+      \pgfmathsetmacro{\v}{4+78*rnd}
+      \fill[black!\v!white, draw=white, line width=0.25pt]
+        ({(\c-1)*\cw},{-(\r-1)*\ch}) rectangle ++(\cw,-\ch);
+    }
+  }
+
+  % node-type bands above the columns, in the order used throughout the figure
+  \foreach \a/\b/\col/\lab in {1/3/nodeTF/TFs, 4/6/nodeGene/genes, 7/9/nodeEnh/enhancers}{
+    \draw[fill=\col!75, draw=none]
+      ({(\a-1)*\cw+0.02},0.09) rectangle ({\b*\cw-0.02},0.17);
+    \node[note, anchor=south] at ({(\a+\b-1)*\cw/2},0.19) {\lab};
+  }
+
+  \node[note, rotate=90, anchor=south] at (-0.16,-1.54) {$N$ cells};
+  \node[note, anchor=north] at (1.44,-3.20) {$m$ nodes};
+\end{scope}
+\end{scope}

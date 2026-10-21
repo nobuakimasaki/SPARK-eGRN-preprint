@@ -1,0 +1,694 @@
+trait_id,trait_label,is_immune_disease,is_autoimmune
+EFO_0000195,metabolic syndrome,FALSE,FALSE
+EFO_0000493,family history,FALSE,FALSE
+EFO_0000719,temporal measurement,FALSE,FALSE
+EFO_0002571,medical procedure,FALSE,FALSE
+EFO_0003892,pulmonary function measurement,FALSE,FALSE
+EFO_0003907,deep vein thrombosis,FALSE,FALSE
+EFO_0003917,premature birth,FALSE,FALSE
+EFO_0003924,hair color,FALSE,FALSE
+EFO_0004207,pathological myopia,FALSE,FALSE
+EFO_0004229,Dupuytren Contracture,FALSE,FALSE
+EFO_0004285,albuminuria,FALSE,FALSE
+EFO_0004298,cardiovascular measurement,FALSE,FALSE
+EFO_0004305,erythrocyte count,FALSE,FALSE
+EFO_0004309,platelet count,FALSE,FALSE
+EFO_0004312,vital capacity,FALSE,FALSE
+EFO_0004314,forced expiratory volume,FALSE,FALSE
+EFO_0004318,smoking behavior,FALSE,FALSE
+EFO_0004324,body weights and measures,FALSE,FALSE
+EFO_0004327,electrocardiography,FALSE,FALSE
+EFO_0004329,alcohol drinking,FALSE,FALSE
+EFO_0004337,intelligence,FALSE,FALSE
+EFO_0004338,body weight,FALSE,FALSE
+EFO_0004340,body mass index,FALSE,FALSE
+EFO_0004343,waist-hip ratio,FALSE,FALSE
+EFO_0004344,birth weight,FALSE,FALSE
+EFO_0004346,neuroimaging measurement,FALSE,FALSE
+EFO_0004348,hematocrit,FALSE,FALSE
+EFO_0004458,C-reactive protein measurement,FALSE,FALSE
+EFO_0004459,ferritin measurement,FALSE,FALSE
+EFO_0004460,soluble transferrin receptor measurement,FALSE,FALSE
+EFO_0004462,PR interval,FALSE,FALSE
+EFO_0004467,insulin measurement,FALSE,FALSE
+EFO_0004468,glucose measurement,FALSE,FALSE
+EFO_0004509,hemoglobin measurement,FALSE,FALSE
+EFO_0004517,arterial stiffness measurement,FALSE,FALSE
+EFO_0004527,mean corpuscular hemoglobin,FALSE,FALSE
+EFO_0004528,mean corpuscular hemoglobin concentration,FALSE,FALSE
+EFO_0004529,lipid measurement,FALSE,FALSE
+EFO_0004530,triglyceride measurement,FALSE,FALSE
+EFO_0004531,urate measurement,FALSE,FALSE
+EFO_0004532,serum gamma-glutamyl transferase measurement,FALSE,FALSE
+EFO_0004533,alkaline phosphatase measurement,FALSE,FALSE
+EFO_0004534,creatine kinase measurement,FALSE,FALSE
+EFO_0004536,total blood protein measurement,FALSE,FALSE
+EFO_0004541,HbA1c measurement,FALSE,FALSE
+EFO_0004555,glycoprotein measurement,FALSE,FALSE
+EFO_0004570,bilirubin measurement,FALSE,FALSE
+EFO_0004574,total cholesterol measurement,FALSE,FALSE
+EFO_0004587,lymphocyte count,FALSE,FALSE
+EFO_0004611,low density lipoprotein cholesterol measurement,FALSE,FALSE
+EFO_0004612,high density lipoprotein cholesterol measurement,FALSE,FALSE
+EFO_0004614,apolipoprotein A 1 measurement,FALSE,FALSE
+EFO_0004615,apolipoprotein B measurement,FALSE,FALSE
+EFO_0004617,cystatin C measurement,FALSE,FALSE
+EFO_0004619,factor VII measurement,FALSE,FALSE
+EFO_0004627,IGF-1 measurement,FALSE,FALSE
+EFO_0004630,factor VIII measurement,FALSE,FALSE
+EFO_0004632,nevus count,FALSE,FALSE
+EFO_0004641,white matter integrity,FALSE,FALSE
+EFO_0004645,response to vaccine,FALSE,FALSE
+EFO_0004682,QT interval,FALSE,FALSE
+EFO_0004685,hip geometry,FALSE,FALSE
+EFO_0004695,intraocular pressure measurement,FALSE,FALSE
+EFO_0004696,sex hormone-binding globulin measurement,FALSE,FALSE
+EFO_0004703,age at menarche,FALSE,FALSE
+EFO_0004704,age at menopause,FALSE,FALSE
+EFO_0004713,FEV/FVC ratio,FALSE,FALSE
+EFO_0004725,metabolite measurement,FALSE,FALSE
+EFO_0004736,aspartate aminotransferase measurement,FALSE,FALSE
+EFO_0004747,protein measurement,FALSE,FALSE
+EFO_0004761,uric acid measurement,FALSE,FALSE
+EFO_0004767,visceral:subcutaneous adipose tissue ratio,FALSE,FALSE
+EFO_0004784,self reported educational attainment,FALSE,FALSE
+EFO_0004792,plasminogen activator inhibitor 1 measurement,FALSE,FALSE
+EFO_0004808,L lactate dehydrogenase measurement,FALSE,FALSE
+EFO_0004833,neutrophil count,FALSE,FALSE
+EFO_0004838,calcium measurement,FALSE,FALSE
+EFO_0004840,cortical thickness,FALSE,FALSE
+EFO_0004842,eosinophil count,FALSE,FALSE
+EFO_0004845,magnesium measurement,FALSE,FALSE
+EFO_0004872,inflammatory biomarker measurement,FALSE,FALSE
+EFO_0004873,cytokine measurement,FALSE,FALSE
+EFO_0004875,mathematical ability,FALSE,FALSE
+EFO_0004908,testosterone measurement,FALSE,FALSE
+EFO_0004980,appendicular lean mass,FALSE,FALSE
+EFO_0004995,lean body mass,FALSE,FALSE
+EFO_0004996,type 1 diabetes nephropathy,TRUE,FALSE
+EFO_0004999,N-glycan measurement,FALSE,FALSE
+EFO_0005043,cardiac troponin T measurement,FALSE,FALSE
+EFO_0005054,QRS complex,FALSE,FALSE
+EFO_0005090,basophil count,FALSE,FALSE
+EFO_0005091,monocyte count,FALSE,FALSE
+EFO_0005116,urinary metabolite measurement,FALSE,FALSE
+EFO_0005134,amino acid measurement,FALSE,FALSE
+EFO_0005193,serum IgG glycosylation measurement,FALSE,FALSE
+EFO_0005213,central corneal thickness,FALSE,FALSE
+EFO_0005538,thrombin generation potential measurement,FALSE,FALSE
+EFO_0005665,white matter hyperintensity measurement,FALSE,FALSE
+EFO_0005670,smoking initiation,FALSE,FALSE
+EFO_0005674,white matter microstructure measurement,FALSE,FALSE
+EFO_0005680,omega-6 polyunsaturated fatty acid measurement,FALSE,FALSE
+EFO_0005689,non-high density lipoprotein cholesterol measurement,FALSE,FALSE
+EFO_0005756,skin wound,FALSE,FALSE
+EFO_0005763,pulse pressure measurement,FALSE,FALSE
+EFO_0005802,cartilage disease,FALSE,FALSE
+EFO_0005939,parental genotype effect measurement,FALSE,FALSE
+EFO_0006309,plasma plasminogen measurement,FALSE,FALSE
+EFO_0006312,mitochondrial DNA measurement,FALSE,FALSE
+EFO_0006335,systolic blood pressure,FALSE,FALSE
+EFO_0006336,diastolic blood pressure,FALSE,FALSE
+EFO_0006340,mean arterial pressure,FALSE,FALSE
+EFO_0006502,mammographic density percentage,FALSE,FALSE
+EFO_0006527,smoking status measurement,FALSE,FALSE
+EFO_0006781,coffee consumption measurement,FALSE,FALSE
+EFO_0006797,neurofibrillary tangles measurement,FALSE,FALSE
+EFO_0006807,linoleic acid measurement,FALSE,FALSE
+EFO_0006808,arachidonic acid measurement,FALSE,FALSE
+EFO_0006928,motion sickness,FALSE,FALSE
+EFO_0006935,thalamus volume,FALSE,FALSE
+EFO_0006939,cup-to-disc ratio measurement,FALSE,FALSE
+EFO_0006941,grip strength measurement,FALSE,FALSE
+EFO_0006945,diastolic blood pressure change measurement,FALSE,FALSE
+EFO_0006997,response to cold medicine,FALSE,FALSE
+EFO_0007005,free androgen index,FALSE,FALSE
+EFO_0007006,depressive symptom measurement,FALSE,FALSE
+EFO_0007010,drug use measurement,FALSE,FALSE
+EFO_0007013,aspirin use measurement,FALSE,FALSE
+EFO_0007015,3-hydroxy-1-methylpropylmercapturic acid measurement,FALSE,FALSE
+EFO_0007629,hemoglobin A1 measurement,FALSE,FALSE
+EFO_0007660,neuroticism measurement,FALSE,FALSE
+EFO_0007667,lobe attachment,FALSE,FALSE
+EFO_0007701,spine bone mineral density,FALSE,FALSE
+EFO_0007742,QRS amplitude,FALSE,FALSE
+EFO_0007788,BMI-adjusted waist-hip ratio,FALSE,FALSE
+EFO_0007789,BMI-adjusted waist circumference,FALSE,FALSE
+EFO_0007791,rheumatoid factor seropositivity measurement,FALSE,FALSE
+EFO_0007800,body fat percentage,FALSE,FALSE
+EFO_0007825,balding measurement,FALSE,FALSE
+EFO_0007828,daytime rest measurement,FALSE,FALSE
+EFO_0007837,anti-citrullinated protein antibody seropositivity,FALSE,FALSE
+EFO_0007860,ADHD symptom measurement,FALSE,FALSE
+EFO_0007863,illness severity status,FALSE,FALSE
+EFO_0007876,insomnia measurement,FALSE,FALSE
+EFO_0007885,JT interval,FALSE,FALSE
+EFO_0007979,childhood trauma measurement,FALSE,FALSE
+EFO_0007984,platelet component distribution width,FALSE,FALSE
+EFO_0007985,platelet crit,FALSE,FALSE
+EFO_0007986,reticulocyte count,FALSE,FALSE
+EFO_0007987,granulocyte count,FALSE,FALSE
+EFO_0007989,monocyte percentage of leukocytes,FALSE,FALSE
+EFO_0007990,neutrophil percentage of leukocytes,FALSE,FALSE
+EFO_0007991,eosinophil percentage of leukocytes,FALSE,FALSE
+EFO_0007992,basophil percentage of leukocytes,FALSE,FALSE
+EFO_0007993,lymphocyte percentage of leukocytes,FALSE,FALSE
+EFO_0007994,neutrophil percentage of granulocytes,FALSE,FALSE
+EFO_0007996,eosinophil percentage of granulocytes,FALSE,FALSE
+EFO_0007997,granulocyte percentage of myeloid white cells,FALSE,FALSE
+EFO_0008002,physical activity measurement,FALSE,FALSE
+EFO_0008011,a disintegrin and metalloproteinase with thrombospondin motifs 13 measurement,FALSE,FALSE
+EFO_0008016,Agouti-related protein measurement,FALSE,FALSE
+EFO_0008039,BMI-adjusted hip circumference,FALSE,FALSE
+EFO_0008086,CMRF35-like molecule 6 measurement,FALSE,FALSE
+EFO_0008111,diet measurement,FALSE,FALSE
+EFO_0008141,granulins measurement,FALSE,FALSE
+EFO_0008175,interleukin 17 receptor A measurement,FALSE,FALSE
+EFO_0008187,interleukin 6 receptor subunit alpha measurement,FALSE,FALSE
+EFO_0008210,low affinity immunoglobulin epsilon Fc receptor measurement,FALSE,FALSE
+EFO_0008267,polymeric immunoglobulin receptor measurement,FALSE,FALSE
+EFO_0008328,chronotype measurement,FALSE,FALSE
+EFO_0008354,cognitive function measurement,FALSE,FALSE
+EFO_0008390,prothrombin time measurement,FALSE,FALSE
+EFO_0008393,reaction time measurement,FALSE,FALSE
+EFO_0008399,mean fractional anisotropy measurement,FALSE,FALSE
+EFO_0008446,platelet-to-lymphocyte ratio,FALSE,FALSE
+EFO_0008447,neutrophil-to-lymphocyte ratio,FALSE,FALSE
+EFO_0008475,mood instability measurement,FALSE,FALSE
+EFO_0008496,chronic hepatitis,FALSE,FALSE
+EFO_0008529,kynurenine measurement,FALSE,FALSE
+EFO_0008579,risk-taking behaviour,FALSE,FALSE
+EFO_0008589,esterified cholesterol measurement,FALSE,FALSE
+EFO_0008591,free cholesterol measurement,FALSE,FALSE
+EFO_0008595,intermediate density lipoprotein measurement,FALSE,FALSE
+EFO_0009101,age at first birth measurement,FALSE,FALSE
+EFO_0009188,Red cell distribution width,FALSE,FALSE
+EFO_0009260,non-melanoma skin carcinoma,FALSE,FALSE
+EFO_0009268,family history of Alzheimer’s disease,FALSE,FALSE
+EFO_0009270,heel bone mineral density,FALSE,FALSE
+EFO_0009282,sodium measurement,FALSE,FALSE
+EFO_0009283,potassium measurement,FALSE,FALSE
+EFO_0009332,executive function measurement,FALSE,FALSE
+EFO_0009355,Anti-measles virus IgG measurement,FALSE,FALSE
+EFO_0009373,edema,FALSE,FALSE
+EFO_0009389,sum of eosinophil and basophil counts,FALSE,FALSE
+EFO_0009390,sum of neutrophil and eosinophil counts,FALSE,FALSE
+EFO_0009492,cardiac arrest,FALSE,FALSE
+EFO_0009516,burn,FALSE,FALSE
+EFO_0009518,complication,FALSE,FALSE
+EFO_0009519,device complication,FALSE,FALSE
+EFO_0009578,placental retention,FALSE,FALSE
+EFO_0009582,sprain,FALSE,FALSE
+EFO_0009589,worry measurement,FALSE,FALSE
+EFO_0009597,feeling nervous measurement,FALSE,FALSE
+EFO_0009617,knee fracture,FALSE,FALSE
+EFO_0009681,post term pregnancy,FALSE,FALSE
+EFO_0009718,peak expiratory flow,FALSE,FALSE
+EFO_0009720,able to hear with hearing aids,FALSE,FALSE
+EFO_0009765,alanine measurement,FALSE,FALSE
+EFO_0009767,glycine measurement,FALSE,FALSE
+EFO_0009768,glutamine measurement,FALSE,FALSE
+EFO_0009769,histidine measurement,FALSE,FALSE
+EFO_0009793,isoleucine measurement,FALSE,FALSE
+EFO_0009804,pulse wave reflection index measurement,FALSE,FALSE
+EFO_0009805,whole body water mass,FALSE,FALSE
+EFO_0009806,,FALSE,FALSE
+EFO_0009888,trauma complication,FALSE,FALSE
+EFO_0009924,Drugs used in diabetes use measurement,FALSE,FALSE
+EFO_0009928,Diuretic use measurement,FALSE,FALSE
+EFO_0009930,Calcium channel blocker use measurement,FALSE,FALSE
+EFO_0009931,Agents acting on the renin-angiotensin system use measurement,FALSE,FALSE
+EFO_0009932,HMG CoA reductase inhibitor use measurement,FALSE,FALSE
+EFO_0009933,Thyroid preparation use measurement,FALSE,FALSE
+EFO_0009941,Inhalant adrenergic use measurement,FALSE,FALSE
+EFO_0010067,corneal resistance factor,FALSE,FALSE
+EFO_0010088,beverage consumption measurement,FALSE,FALSE
+EFO_0010091,tea consumption measurement,FALSE,FALSE
+EFO_0010114,citrate measurement,FALSE,FALSE
+EFO_0010116,choline measurement,FALSE,FALSE
+EFO_0010118,sphingomyelin measurement,FALSE,FALSE
+EFO_0010125,viral load,FALSE,FALSE
+EFO_0010139,fish consumption measurement,FALSE,FALSE
+EFO_0010155,taste liking measurement,FALSE,FALSE
+EFO_0010158,sugar consumption measurement,FALSE,FALSE
+EFO_0010282,gastrointestinal disease,FALSE,FALSE
+EFO_0010351,cholesteryl ester measurement,FALSE,FALSE
+EFO_0010452,adenosine diphosphate measurement,FALSE,FALSE
+EFO_0010456,allantoin measurement,FALSE,FALSE
+EFO_0010461,argininosuccinate measurement,FALSE,FALSE
+EFO_0010462,aspartate measurement,FALSE,FALSE
+EFO_0010476,dimethylglycine measurement,FALSE,FALSE
+EFO_0010480,fumarate measurement,FALSE,FALSE
+EFO_0010486,glucuronate measurement,FALSE,FALSE
+EFO_0010554,retinal vasculature measurement,FALSE,FALSE
+EFO_0010556,Left ventricular mass to end-diastolic volume ratio,FALSE,FALSE
+EFO_0010587,interleukin-2 receptor subunit alpha measurement,FALSE,FALSE
+EFO_0010593,cystatin B measurement,FALSE,FALSE
+EFO_0010618,obsolete_pappalysin‐1 measurement,FALSE,FALSE
+EFO_0010623,tissue factor measurement,FALSE,FALSE
+EFO_0010671,arterial embolism,FALSE,FALSE
+EFO_0010701,mean reticulocyte volume,FALSE,FALSE
+EFO_0010720,invasive mechanical ventilation,FALSE,FALSE
+EFO_0010724,lifestyle measurement,FALSE,FALSE
+EFO_0010726,,FALSE,FALSE
+EFO_0010789,monocyte chemotactic protein-2 measurement,FALSE,FALSE
+EFO_0010915,heat shock 27 kDa protein measurement,FALSE,FALSE
+EFO_0010930,TNF-related apoptosis-inducing ligand receptor 2 measurement,FALSE,FALSE
+EFO_0010932,urokinase plasminogen activator surface receptor measurement,FALSE,FALSE
+EFO_0010934,aspartate aminotransferase to alanine aminotransferase ratio,FALSE,FALSE
+EFO_0010967,urinary microalbumin measurement,FALSE,FALSE
+EFO_0010968,phosphate measurement,FALSE,FALSE
+EFO_0010972,blood phosphate measurement,FALSE,FALSE
+EFO_0011011,sitting height measurement,FALSE,FALSE
+EFO_0011015,educational attainment,FALSE,FALSE
+EFO_0020013,5-methyluridine (ribothymidine) measurement,FALSE,FALSE
+EFO_0020044,eicosanoids measurement,FALSE,FALSE
+EFO_0020097,QRS-T angle,FALSE,FALSE
+EFO_0020104,pelvis bone mineral density,FALSE,FALSE
+EFO_0020392,ficolin-3 measurement,FALSE,FALSE
+EFO_0020500,interleukin-22 receptor subunit alpha-2 measurement,FALSE,FALSE
+EFO_0020822,tyrosine-protein kinase FGR measurement,FALSE,FALSE
+EFO_0020864,cerebellar volume measurement,FALSE,FALSE
+EFO_0020944,cholesteryl esters:total lipids ratio,FALSE,FALSE
+EFO_0020945,free cholesterol:total lipids ratio,FALSE,FALSE
+EFO_0020946,phospholipids:total lipids ratio,FALSE,FALSE
+EFO_0020947,triglycerides:total lipids ratio,FALSE,FALSE
+EFO_0021015,indoleacetate measurement,FALSE,FALSE
+EFO_0021016,indolepropionate measurement,FALSE,FALSE
+EFO_0021078,1-arachidonoylglycerophosphoinositol measurement,FALSE,FALSE
+EFO_0021150,benzoate measurement,FALSE,FALSE
+EFO_0021161,salicylate measurement,FALSE,FALSE
+EFO_0021166,piperine measurement,FALSE,FALSE
+EFO_0021228,X-11381 measurement,FALSE,FALSE
+EFO_0021294,X-12216 measurement,FALSE,FALSE
+EFO_0021315,X-12544 measurement,FALSE,FALSE
+EFO_0021430,N-acetyl-beta-alanine measurement,FALSE,FALSE
+EFO_0021451,GM3 ganglioside measurement,FALSE,FALSE
+EFO_0021796,sexual dimorphism measurement,FALSE,FALSE
+EFO_0021845,gamma-enolase measurement,FALSE,FALSE
+EFO_0021898,cholesterol in chylomicrons and extremely large VLDL measurement,FALSE,FALSE
+EFO_0021899,cholesterol in IDL measurement,FALSE,FALSE
+EFO_0021934,follistatin-related protein 1 measurement,FALSE,FALSE
+EFO_0021995,noggin measurement,FALSE,FALSE
+EFO_0022087,3-hydroxy-5-cholestenoic acid measurement,FALSE,FALSE
+EFO_0022130,X-24243 measurement,FALSE,FALSE
+EFO_0022145,triglycerides in small VLDL measurement,FALSE,FALSE
+EFO_0022153,total lipids in medium VLDL,FALSE,FALSE
+EFO_0022156,total lipids in very small VLDL measurement,FALSE,FALSE
+EFO_0022161,total lipids in IDL,FALSE,FALSE
+EFO_0022169,phospholipids in large VLDL measurement,FALSE,FALSE
+EFO_0022178,triglycerides in large VLDL measurement,FALSE,FALSE
+EFO_0022179,total cholesterol in small LDL,FALSE,FALSE
+EFO_0022187,,FALSE,FALSE
+EFO_0022196,body surface area,FALSE,FALSE
+EFO_0022223,metabolite ratio,FALSE,FALSE
+EFO_0022227,cholesterol in small LDL measurement,FALSE,FALSE
+EFO_0022230,cholesterol in very large VLDL measurement,FALSE,FALSE
+EFO_0022231,cholesterol in very small VLDL measurement,FALSE,FALSE
+EFO_0022232,cholesterol to total lipids in chylomicrons and extremely large VLDL percentage,FALSE,FALSE
+EFO_0022233,cholesterol to total lipids in IDL percentage,FALSE,FALSE
+EFO_0022239,cholesterol to total lipids in medium VLDL percentage,FALSE,FALSE
+EFO_0022243,cholesterol to total lipids in very large HDL percentage,FALSE,FALSE
+EFO_0022252,cholesteryl esters to total lipids in medium LDL percentage,FALSE,FALSE
+EFO_0022253,cholesteryl esters to total lipids in medium VLDL percentage,FALSE,FALSE
+EFO_0022266,free cholesterol in LDL measurement,FALSE,FALSE
+EFO_0022268,free cholesterol in medium LDL measurement,FALSE,FALSE
+EFO_0022269,free cholesterol in medium VLDL measurement,FALSE,FALSE
+EFO_0022271,free cholesterol in small LDL measurement,FALSE,FALSE
+EFO_0022275,free cholesterol in very small VLDL measurement,FALSE,FALSE
+EFO_0022279,free cholesterol to total lipids in large HDL percentage,FALSE,FALSE
+EFO_0022280,free cholesterol to total lipids in large LDL percentage,FALSE,FALSE
+EFO_0022288,free cholesterol to total lipids in very large HDL percentage,FALSE,FALSE
+EFO_0022290,free cholesterol to total lipids in very small VLDL percentage,FALSE,FALSE
+EFO_0022295,phospholipids in medium HDL measurement,FALSE,FALSE
+EFO_0022298,phospholipids in very large HDL measurement,FALSE,FALSE
+EFO_0022300,phospholipids in very small VLDL measurement,FALSE,FALSE
+EFO_0022301,phospholipids in VLDL measurement,FALSE,FALSE
+EFO_0022310,total lipids in medium HDL measurement,FALSE,FALSE
+EFO_0022316,triglycerides in chylomicrons and extremely large VLDL measurement,FALSE,FALSE
+EFO_0022318,triglycerides in large HDL measurement,FALSE,FALSE
+EFO_0022330,triglycerides to total lipids in large HDL percentage,FALSE,FALSE
+EFO_0022597,aging,FALSE,FALSE
+EFO_0022599,DNA methylation,FALSE,FALSE
+EFO_0600008,mitochondrial heteroplasmy measurement,FALSE,FALSE
+EFO_0600050,plasma leucine rich alpha-2-glycoprotein 1 measurement,FALSE,FALSE
+EFO_0600088,lymphocyte:monocyte ratio,FALSE,FALSE
+EFO_0800005,N-acetylglutamate measurement,FALSE,FALSE
+EFO_0800022,N-acetylhistidine measurement,FALSE,FALSE
+EFO_0800030,glutarylcarnitine (C5-DC) measurement,FALSE,FALSE
+EFO_0800033,N-acetyl-aspartyl-glutamate (NAAG) measurement,FALSE,FALSE
+EFO_0800118,N-acetylalanine measurement,FALSE,FALSE
+EFO_0800128,N-formylmethionine measurement,FALSE,FALSE
+EFO_0800138,trans-urocanate measurement,FALSE,FALSE
+EFO_0800147,xylonate measurement,FALSE,FALSE
+EFO_0800156,nicotinamide riboside measurement,FALSE,FALSE
+EFO_0800175,quinolinate measurement,FALSE,FALSE
+EFO_0800185,sphingosine 1-phosphate measurement,FALSE,FALSE
+EFO_0800201,butyrylcarnitine (C4) measurement,FALSE,FALSE
+EFO_0800205,3-hydroxysebacate measurement,FALSE,FALSE
+EFO_0800207,propionylglycine measurement,FALSE,FALSE
+EFO_0800231,1-palmitoleoyl-GPC (16:1) measurement,FALSE,FALSE
+EFO_0800275,glycosyl-N-stearoyl-sphingosine (d18:1/18:0) measurement,FALSE,FALSE
+EFO_0800276,glycocholenate sulfate measurement,FALSE,FALSE
+EFO_0800279,pregnenediol disulfate (C21H34O8S2) measurement,FALSE,FALSE
+EFO_0800300,palmitoyl sphingomyelin (d18:1/16:0) measurement,FALSE,FALSE
+EFO_0800379,3beta-hydroxy-5-cholestenoate measurement,FALSE,FALSE
+EFO_0800438,palmitoyl-linoleoyl-glycerol (16:0/18:2) [2] measurement,FALSE,FALSE
+EFO_0800450,1-linoleoyl-2-arachidonoyl-GPC (18:2/20:4n6) measurement,FALSE,FALSE
+EFO_0800533,glycosyl-N-(2-hydroxynervonoyl)-sphingosine (d18:1/24:1(2OH)) measurement,FALSE,FALSE
+EFO_0800543,ximenoylcarnitine (C26:1) measurement,FALSE,FALSE
+EFO_0800572,dodecadienoate (12:2) measurement,FALSE,FALSE
+EFO_0800598,decadienedioic acid (C10:2-DC) measurement,FALSE,FALSE
+EFO_0800635,2'-O-methylcytidine measurement,FALSE,FALSE
+EFO_0800636,2'-O-methyluridine measurement,FALSE,FALSE
+EFO_0800643,2'-deoxyuridine measurement,FALSE,FALSE
+EFO_0800698,X-11880 measurement,FALSE,FALSE
+EFO_0800861,X-23678 measurement,FALSE,FALSE
+EFO_0801001,2-acetamidophenol sulfate measurement,FALSE,FALSE
+EFO_0801027,3-indoleglyoxylic acid measurement,FALSE,FALSE
+EFO_0801066,arabonate measurement,FALSE,FALSE
+EFO_0801440,cadherin-related family member 5 measurement,FALSE,FALSE
+EFO_0801461,cell growth regulator with EF hand domain protein 1 measurement,FALSE,FALSE
+EFO_0801655,granzyme M measurement,FALSE,FALSE
+EFO_0801697,,FALSE,FALSE
+EFO_0801920,procollagen C-endopeptidase enhancer 1 measurement,FALSE,FALSE
+EFO_0802152,transmembrane protein 132C measurement,FALSE,FALSE
+EFO_0802485,DNA-directed DNA/RNA polymerase mu measurement,FALSE,FALSE
+EFO_0802581,,FALSE,FALSE
+EFO_0802980,putative chondrosarcoma-associated gene 1 protein measurement,FALSE,FALSE
+EFO_0803114,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related measurement,FALSE,FALSE
+EFO_0803316,abdominal adipose tissue measurement,FALSE,FALSE
+EFO_0803360,SARS-CoV-2 antibody measurement,FALSE,FALSE
+EFO_0803362,response to COVID-19 vaccine,FALSE,FALSE
+EFO_0803367,antihyperlipidemic drug use measurement,FALSE,FALSE
+EFO_0803539,basophil measurement,FALSE,FALSE
+EFO_0803540,eosinophil measurement,FALSE,FALSE
+EFO_0803548,neutrophil measurement,FALSE,FALSE
+EFO_1001488,influenza A (H1N1),FALSE,FALSE
+EFO_1001494,psoriasis vulgaris,TRUE,FALSE
+EFO_1001515,ovarian endometrioid carcinoma,FALSE,FALSE
+EFO_1001516,ovarian serous carcinoma,FALSE,FALSE
+GO_0009410,response to xenobiotic stimulus,FALSE,FALSE
+GO_0042697,menopause,FALSE,FALSE
+GO_0050896,response to stimulus,FALSE,FALSE
+HP_0000023,Inguinal hernia,FALSE,FALSE
+HP_0000112,Nephropathy,FALSE,FALSE
+HP_0000118,Phenotypic abnormality,FALSE,FALSE
+HP_0000131,Uterine leiomyoma,FALSE,FALSE
+HP_0000539,Abnormality of refraction,FALSE,FALSE
+HP_0000737,Irritability,FALSE,FALSE
+HP_0000823,Delayed puberty,FALSE,FALSE
+HP_0000924,Abnormality of the skeletal system,FALSE,FALSE
+HP_0000964,Eczematoid dermatitis,FALSE,FALSE
+HP_0001007,Hirsutism,FALSE,FALSE
+HP_0001082,Cholecystitis,FALSE,FALSE
+HP_0001392,Abnormality of the liver,FALSE,FALSE
+HP_0001891,Iron deficiency anemia,FALSE,FALSE
+HP_0001948,Alkalosis,FALSE,FALSE
+HP_0001977,Abnormal thrombosis,FALSE,FALSE
+HP_0002140,Ischemic stroke,FALSE,FALSE
+HP_0002321,Vertigo,FALSE,FALSE
+HP_0002619,Varicose veins,FALSE,FALSE
+HP_0002857,Genu valgum,FALSE,FALSE
+HP_0002907,Microscopic hematuria,FALSE,FALSE
+HP_0002970,Genu varum,FALSE,FALSE
+HP_0003124,Hypercholesterolemia,FALSE,FALSE
+HP_0004299,Hernia of the abdominal wall,FALSE,FALSE
+HP_0010313,Breast hypertrophy,FALSE,FALSE
+HP_0011713,Left bundle branch block,FALSE,FALSE
+HP_0012199,Cluster headache,FALSE,FALSE
+HP_0012531,Pain,FALSE,FALSE
+HP_0040064,Abnormality of limbs,FALSE,FALSE
+HP_0100537,Fasciitis,FALSE,FALSE
+MONDO_0000334,multinodular goiter,FALSE,FALSE
+MONDO_0000612,lymphatic system cancer,FALSE,FALSE
+MONDO_0000620,breast benign neoplasm,FALSE,FALSE
+MONDO_0000833,bone remodeling disease,FALSE,FALSE
+MONDO_0001039,tonsillitis,FALSE,FALSE
+MONDO_0001134,essential hypertension,FALSE,FALSE
+MONDO_0001166,nephritis,FALSE,FALSE
+MONDO_0001187,urinary bladder cancer,FALSE,FALSE
+MONDO_0001291,brain compression,FALSE,FALSE
+MONDO_0001369,chronic laryngitis,FALSE,FALSE
+MONDO_0001627,dementia,FALSE,FALSE
+MONDO_0001657,brain cancer,FALSE,FALSE
+MONDO_0001658,nontoxic goiter,FALSE,FALSE
+MONDO_0001889,ovarian dysfunction,FALSE,FALSE
+MONDO_0002009,major depressive disorder,FALSE,FALSE
+MONDO_0002118,urinary system disorder,FALSE,FALSE
+MONDO_0002409,auditory system disorder,FALSE,FALSE
+MONDO_0002428,protozoa infectious disease,FALSE,FALSE
+MONDO_0002491,substance abuse,FALSE,FALSE
+MONDO_0002531,skin neoplasm,FALSE,FALSE
+MONDO_0002714,central nervous system cancer,FALSE,FALSE
+MONDO_0002898,skin cancer,FALSE,FALSE
+MONDO_0003240,thyroid gland disorder,FALSE,FALSE
+MONDO_0003900,connective tissue disorder,FALSE,FALSE
+MONDO_0004247,peptic ulcer disease,FALSE,FALSE
+MONDO_0004390,ocular hypotension,FALSE,FALSE
+MONDO_0004627,duodenitis,FALSE,FALSE
+MONDO_0004846,placental abruption,FALSE,FALSE
+MONDO_0004868,biliary tract disorder,FALSE,FALSE
+MONDO_0004892,refractive error,FALSE,FALSE
+MONDO_0004947,B-cell acute lymphoblastic leukemia,FALSE,FALSE
+MONDO_0004948,B-cell chronic lymphocytic leukemia,FALSE,FALSE
+MONDO_0004950,gastric carcinoma,FALSE,FALSE
+MONDO_0004952,Hodgkins lymphoma,FALSE,FALSE
+MONDO_0004967,acute lymphoblastic leukemia,FALSE,FALSE
+MONDO_0004975,Alzheimer disease,FALSE,FALSE
+MONDO_0004976,amyotrophic lateral sclerosis,FALSE,FALSE
+MONDO_0004979,asthma,TRUE,FALSE
+MONDO_0004980,atopic eczema,TRUE,FALSE
+MONDO_0004981,atrial fibrillation,FALSE,FALSE
+MONDO_0004985,bipolar disorder,FALSE,FALSE
+MONDO_0004989,breast carcinoma,FALSE,FALSE
+MONDO_0004992,cancer,FALSE,FALSE
+MONDO_0004994,cardiomyopathy,FALSE,FALSE
+MONDO_0004995,cardiovascular disorder,FALSE,FALSE
+MONDO_0005005,clear cell renal carcinoma,FALSE,FALSE
+MONDO_0005009,congestive heart failure,FALSE,FALSE
+MONDO_0005010,coronary artery disorder,FALSE,FALSE
+MONDO_0005011,Crohn disease,TRUE,FALSE
+MONDO_0005012,cutaneous melanoma,FALSE,FALSE
+MONDO_0005015,diabetes mellitus,FALSE,FALSE
+MONDO_0005020,intestinal disorder,FALSE,FALSE
+MONDO_0005027,epilepsy,FALSE,FALSE
+MONDO_0005041,glaucoma,FALSE,FALSE
+MONDO_0005044,hypertensive disorder,FALSE,FALSE
+MONDO_0005061,lung adenocarcinoma,FALSE,FALSE
+MONDO_0005066,metabolic disease,FALSE,FALSE
+MONDO_0005068,myocardial infarction,FALSE,FALSE
+MONDO_0005071,nervous system disorder,FALSE,FALSE
+MONDO_0005081,preeclampsia,FALSE,FALSE
+MONDO_0005083,psoriasis,TRUE,FALSE
+MONDO_0005087,respiratory system disorder,FALSE,FALSE
+MONDO_0005090,schizophrenia,FALSE,FALSE
+MONDO_0005093,skin disorder,FALSE,FALSE
+MONDO_0005096,squamous cell carcinoma,FALSE,FALSE
+MONDO_0005097,squamous cell lung carcinoma,FALSE,FALSE
+MONDO_0005101,ulcerative colitis,TRUE,FALSE
+MONDO_0005124,leprosy,FALSE,FALSE
+MONDO_0005129,cataract,FALSE,FALSE
+MONDO_0005130,celiac disease,TRUE,TRUE
+MONDO_0005131,cervical carcinoma,FALSE,FALSE
+MONDO_0005138,lung carcinoma,FALSE,FALSE
+MONDO_0005140,ovarian carcinoma,FALSE,FALSE
+MONDO_0005147,type 1 diabetes mellitus,TRUE,TRUE
+MONDO_0005148,type 2 diabetes mellitus,FALSE,FALSE
+MONDO_0005152,hypopituitarism,FALSE,FALSE
+MONDO_0005154,liver disorder,FALSE,FALSE
+MONDO_0005159,prostate carcinoma,FALSE,FALSE
+MONDO_0005160,aortic aneurysm,FALSE,FALSE
+MONDO_0005178,osteoarthritis,FALSE,FALSE
+MONDO_0005180,Parkinson disease,FALSE,FALSE
+MONDO_0005192,exocrine pancreatic carcinoma,FALSE,FALSE
+MONDO_0005227,abscess,FALSE,FALSE
+MONDO_0005230,cellulitis,FALSE,FALSE
+MONDO_0005240,kidney disorder,FALSE,FALSE
+MONDO_0005265,inflammatory bowel disease,TRUE,FALSE
+MONDO_0005266,diabetic retinopathy,FALSE,FALSE
+MONDO_0005267,heart disorder,FALSE,FALSE
+MONDO_0005271,allergic disease,TRUE,FALSE
+MONDO_0005277,migraine disorder,FALSE,FALSE
+MONDO_0005279,pulmonary embolism,FALSE,FALSE
+MONDO_0005291,brain aneurysm,FALSE,FALSE
+MONDO_0005298,osteoporosis,FALSE,FALSE
+MONDO_0005301,multiple sclerosis,TRUE,TRUE
+MONDO_0005306,ankylosing spondylitis,TRUE,TRUE
+MONDO_0005319,humerus fracture,FALSE,FALSE
+MONDO_0005338,open-angle glaucoma,FALSE,FALSE
+MONDO_0005339,androgenetic alopecia,FALSE,FALSE
+MONDO_0005342,IgA glomerulonephritis,FALSE,FALSE
+MONDO_0005346,gallstones,FALSE,FALSE
+MONDO_0005348,keloid,FALSE,FALSE
+MONDO_0005349,otosclerosis,FALSE,FALSE
+MONDO_0005365,hearing loss disorder,FALSE,FALSE
+MONDO_0005377,nephrotic syndrome,FALSE,FALSE
+MONDO_0005382,bone Paget disease,FALSE,FALSE
+MONDO_0005385,vascular disorder,FALSE,FALSE
+MONDO_0005391,restless legs syndrome,FALSE,FALSE
+MONDO_0005393,gout,FALSE,FALSE
+MONDO_0005399,venous thromboembolism,FALSE,FALSE
+MONDO_0005402,lymphoid leukemia,FALSE,FALSE
+MONDO_0005405,childhood onset asthma,TRUE,FALSE
+MONDO_0005406,gestational diabetes,FALSE,FALSE
+MONDO_0005416,,FALSE,FALSE
+MONDO_0005420,hypothyroidism,FALSE,FALSE
+MONDO_0005473,temporomandibular joint disorder,FALSE,FALSE
+MONDO_0005488,adolescent idiopathic scoliosis,FALSE,FALSE
+MONDO_0005494,triple-negative breast carcinoma,FALSE,FALSE
+MONDO_0005495,adrenal gland disorder,FALSE,FALSE
+MONDO_0005575,colorectal cancer,FALSE,FALSE
+MONDO_0005609,herpes zoster,FALSE,FALSE
+MONDO_0005627,head and neck cancer,FALSE,FALSE
+MONDO_0005628,male breast carcinoma,FALSE,FALSE
+MONDO_0005689,cannabis dependence,FALSE,FALSE
+MONDO_0005854,mixed connective tissue disease,TRUE,TRUE
+MONDO_0005918,placenta praevia,FALSE,FALSE
+MONDO_0005961,sinusitis,FALSE,FALSE
+MONDO_0006107,benign thyroid gland neoplasm,FALSE,FALSE
+MONDO_0006345,palmar fibromatosis,FALSE,FALSE
+MONDO_0006513,estrogen-receptor negative breast cancer,FALSE,FALSE
+MONDO_0006604,rosacea,FALSE,FALSE
+MONDO_0006626,diabetic neuropathy,FALSE,FALSE
+MONDO_0006629,,FALSE,FALSE
+MONDO_0006665,chronic atrophic gastritis,FALSE,FALSE
+MONDO_0006763,frozen shoulder,FALSE,FALSE
+MONDO_0006793,hyperpituitarism,FALSE,FALSE
+MONDO_0006970,sialolithiasis,FALSE,FALSE
+MONDO_0006977,spermatocele,FALSE,FALSE
+MONDO_0006999,tooth disorder,FALSE,FALSE
+MONDO_0007186,gastroesophageal reflux disease,FALSE,FALSE
+MONDO_0007254,breast cancer,FALSE,FALSE
+MONDO_0007743,attention deficit-hyperactivity disorder,FALSE,FALSE
+MONDO_0007915,systemic lupus erythematosus,TRUE,TRUE
+MONDO_0008171,nephrolithiasis,FALSE,FALSE
+MONDO_0008383,rheumatoid arthritis,TRUE,TRUE
+MONDO_0008575,nicotine dependence,FALSE,FALSE
+MONDO_0009688,myasthenia gravis,TRUE,TRUE
+MONDO_0009693,plasma cell myeloma,FALSE,FALSE
+MONDO_0010030,Sjogren syndrome,TRUE,TRUE
+MONDO_0010811,benign prostatic hyperplasia,FALSE,FALSE
+MONDO_0011122,obesity disorder,FALSE,FALSE
+MONDO_0011786,allergic rhinitis,TRUE,FALSE
+MONDO_0012672,cholelithiasis,FALSE,FALSE
+MONDO_0012819,diabetic ketoacidosis,FALSE,FALSE
+MONDO_0013600,insomnia,FALSE,FALSE
+MONDO_0015263,Brugada syndrome,FALSE,FALSE
+MONDO_0015486,keratoconus,FALSE,FALSE
+MONDO_0016820,Moyamoya disease,FALSE,FALSE
+MONDO_0017884,papillary renal cell carcinoma,FALSE,FALSE
+MONDO_0017991,Takayasu arteritis,FALSE,FALSE
+MONDO_0018076,tuberculosis,FALSE,FALSE
+MONDO_0018229,Stevens-Johnson syndrome,FALSE,FALSE
+MONDO_0018646,sclerosing cholangitis,FALSE,FALSE
+MONDO_0019060,bone neoplasm,FALSE,FALSE
+MONDO_0019082,bullous pemphigoid,TRUE,TRUE
+MONDO_0019338,sarcoidosis,FALSE,FALSE
+MONDO_0019438,AL amyloidosis,FALSE,FALSE
+MONDO_0019810,toxic epidermal necrolysis,FALSE,FALSE
+MONDO_0019938,anorectal malformation,FALSE,FALSE
+MONDO_0020686,acute tonsillitis,FALSE,FALSE
+MONDO_0020804,basal cell carcinoma,FALSE,FALSE
+MONDO_0021042,glioma,FALSE,FALSE
+MONDO_0021068,ovarian neoplasm,FALSE,FALSE
+MONDO_0021108,meningitis,FALSE,FALSE
+MONDO_0021116,luminal A breast carcinoma,FALSE,FALSE
+MONDO_0021400,polyp of colon,FALSE,FALSE
+MONDO_0021559,non-autoimmune hemolytic anemia,FALSE,FALSE
+MONDO_0021581,connective tissue neoplasm,FALSE,FALSE
+MONDO_0021661,coronary atherosclerosis,FALSE,FALSE
+MONDO_0024355,respiratory tract infectious disorder,FALSE,FALSE
+MONDO_0024470,benign chondrogenic neoplasm,FALSE,FALSE
+MONDO_0024647,urolithiasis,FALSE,FALSE
+MONDO_0024881,secondary malignant neoplasm,FALSE,FALSE
+MONDO_0029000,poisoning,FALSE,FALSE
+MONDO_0043579,enteritis,FALSE,FALSE
+MONDO_0043765,presbycusis,FALSE,FALSE
+MONDO_0043797,spinal cord injury,FALSE,FALSE
+MONDO_0056802,synovial bursa disorder,FALSE,FALSE
+MONDO_0100073,methicillin-resistant staphylococcus aureus infectious disease,FALSE,FALSE
+MONDO_0100096,COVID-19,FALSE,FALSE
+MONDO_0100338,urinary tract infection,FALSE,FALSE
+MONDO_0700226,food allergy,TRUE,FALSE
+OBA_0000061,circulating fibrinogen levels,FALSE,FALSE
+OBA_0002272,reticulocyte amount,FALSE,FALSE
+OBA_0002313,strand of hair color,FALSE,FALSE
+OBA_0003277,platelet volume,FALSE,FALSE
+OBA_0003352,lymphocyte amount,FALSE,FALSE
+OBA_0003460,erythrocyte volume,FALSE,FALSE
+OBA_0003747,glomerular filtration rate,FALSE,FALSE
+OBA_0003784,,FALSE,FALSE
+OBA_0004528,fat pad mass,FALSE,FALSE
+OBA_0005494,aging rate,FALSE,FALSE
+OBA_1000032,hip circumference,FALSE,FALSE
+OBA_1000110,bone tissue density,FALSE,FALSE
+OBA_1000278,social inhibition quality,FALSE,FALSE
+OBA_1000376,aggressive behavior quality,FALSE,FALSE
+OBA_1000840,alcohol consumption quality,FALSE,FALSE
+OBA_1000942,alpha-fetoprotein level,FALSE,FALSE
+OBA_1000959,chloride level,FALSE,FALSE
+OBA_1000968,vitamin D level,FALSE,FALSE
+OBA_1000983,Thyroid stimulating hormone level,FALSE,FALSE
+OBA_1001009,Luteinizing hormone level,FALSE,FALSE
+OBA_1001011,phospholipid level,FALSE,FALSE
+OBA_1001085,waist circumference,FALSE,FALSE
+OBA_1001086,QRS duration,FALSE,FALSE
+OBA_1001087,heart rate,FALSE,FALSE
+OBA_2001000,age of onset of Alzheimer disease,FALSE,FALSE
+OBA_2001015,age of onset of childhood onset asthma,FALSE,FALSE
+OBA_2040083,trait in response to thiazide,FALSE,FALSE
+OBA_2040177,level of ceramide,FALSE,FALSE
+OBA_2040178,level of diglyceride,FALSE,FALSE
+OBA_2040179,level of phosphatidylcholine,FALSE,FALSE
+OBA_2040181,level of phosphatidylinositol,FALSE,FALSE
+OBA_2040369,level of complement component C1q receptor in blood serum,FALSE,FALSE
+OBA_2040385,level of nectin-2 in blood serum,FALSE,FALSE
+OBA_2042054,level of integrin beta-7 in blood serum,FALSE,FALSE
+OBA_2042229,level of low-density lipoprotein receptor-related protein 11 in blood serum,FALSE,FALSE
+OBA_2042824,level of platelet-derived growth factor subunit A in blood serum,FALSE,FALSE
+OBA_2044953,level of cathepsin H in blood serum,FALSE,FALSE
+OBA_2045003,level of advanced glycosylation end product-specific receptor in blood serum,FALSE,FALSE
+OBA_2045021,level of tumor necrosis factor receptor superfamily member 10C in blood serum,FALSE,FALSE
+OBA_2045206,level of serum globulin type protein,FALSE,FALSE
+OBA_2045210,brain attribute,FALSE,FALSE
+OBA_2045216,macula attribute,FALSE,FALSE
+OBA_2045223,myeloid leukocyte count,FALSE,FALSE
+OBA_2045224,visceral adipose tissue quantity,FALSE,FALSE
+OBA_2045227,genu of corpus callosum volume,FALSE,FALSE
+OBA_2045235,blood sedimentation trait,FALSE,FALSE
+OBA_2045244,hippocampal formation volume,FALSE,FALSE
+OBA_2045246,banks of the superior temporal sulcus volume,FALSE,FALSE
+OBA_2045260,red blood cell density,FALSE,FALSE
+OBA_2045262,hearing process quality,FALSE,FALSE
+OBA_2045265,optic cup area,FALSE,FALSE
+OBA_2045267,cerebral cortex area attribute,FALSE,FALSE
+OBA_2045276,erythrocyte attribute,FALSE,FALSE
+OBA_2045291,cerebrospinal fluid composition attribute,FALSE,FALSE
+OBA_2045295,brain connectivity attribute,FALSE,FALSE
+OBA_2050009,brain volume,FALSE,FALSE
+OBA_2050027,pallidum volume,FALSE,FALSE
+OBA_2050034,amygdala volume,FALSE,FALSE
+OBA_2050055,serum iron amount,FALSE,FALSE
+OBA_2050062,serum alanine aminotransferase amount,FALSE,FALSE
+OBA_2050065,serum urea amount,FALSE,FALSE
+OBA_2050068,serum albumin amount,FALSE,FALSE
+OBA_2050078,blood metabolite level,FALSE,FALSE
+OBA_2050094,blood sodium bicarbonate amount,FALSE,FALSE
+OBA_2050096,serum creatinine amount,FALSE,FALSE
+OBA_2050110,retinal layer thickness,FALSE,FALSE
+OBA_2050111,retinal nerve fibre layer thickness,FALSE,FALSE
+OBA_2050114,VLDL particle size,FALSE,FALSE
+OBA_2050135,growth differentiation factor 15  level,FALSE,FALSE
+OBA_2050157,melanoma-derived growth regulatory protein  level,FALSE,FALSE
+OBA_2050200,prostate specific antigen amount,FALSE,FALSE
+OBA_2050207,tissue plasminogen activator amount,FALSE,FALSE
+OBA_2050321,ephrin type-A receptor 1 amount,FALSE,FALSE
+OBA_2050484,level of aldo-keto reductase family 1 member B1 in blood,FALSE,FALSE
+OBA_VT0002095,skin pigmentation,FALSE,FALSE
+OBA_VT0005144,blood VLDL cholesterol amount,FALSE,FALSE
+OBA_VT0005265,blood urea nitrogen amount,FALSE,FALSE
+OBA_VT0005416,blood protein amount,FALSE,FALSE
+OBA_VT0008739,spleen iron amount,FALSE,FALSE
+OBA_VT0010046,fatty acid amount,FALSE,FALSE
+OBA_VT0010482,body fat mass,FALSE,FALSE

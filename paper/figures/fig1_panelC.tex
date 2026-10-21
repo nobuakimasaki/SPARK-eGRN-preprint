@@ -1,0 +1,42 @@
+% Figure 1, panel C: the likelihood, instantiated on one target node. The nodes are
+% numbered rather than typed, because the likelihood is the same whatever the nodes
+% are: a parent may be a TF or an enhancer and a target may be an enhancer or a
+% gene, so labelling them E and G would narrow the panel to the enhancer-to-gene
+% case. Numbering also lets the regression below use the beta_ij of the Methods
+% directly. The edges carry their coefficients, so the regression reads straight
+% off the picture.
+%
+% The closing note names the one component of the model that no panel draws, the
+% priors on the regression parameters (main paper, parameter priors). It sits here
+% because this is the panel where those parameters appear.
+% Local origin is the panel's top-left corner. Panel size 5.3 x 4.35.
+\draw[panel] (0,0) rectangle (5.3,-4.35);
+\node[ttl] at (0.15,-0.12) {C\quad Likelihood};
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% One target node, its parents, and the coefficient on each edge
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{scope}[shift={(1.68,-1.42)}]
+  \node[vnode] (pn1) at (0,0)         {$1$};
+  \node[vnode] (pn2) at (0,-1.05)     {$2$};
+  \node[vnode] (pn3) at (1.95,-0.525) {$3$};
+  \draw[->, black!55, line width=0.9pt] (pn1) -- (pn3)
+    node[note, midway, above, sloped, inner sep=1.6pt] {$\beta_{13}$};
+  \draw[->, black!55, line width=0.9pt] (pn2) -- (pn3)
+    node[note, midway, below, sloped, inner sep=1.6pt] {$\beta_{23}$};
+  \node[note, anchor=south] at (0,0.34)    {parents};
+  \node[note, anchor=south] at (1.95,0.34) {target};
+\end{scope}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The regression, for this node
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% no box: the equation sits directly on the panel background
+\node[anchor=north west, inner sep=0pt] at (0.60,-2.90) {\scriptsize $
+  \begin{aligned}
+    \log \mu_3 &= \alpha_3 + \beta_{13}\, y_1 + \beta_{23}\, y_2\\[3pt]
+    Y_3 &\sim \mathrm{NegBinom}(\mu_3, \psi_3)
+  \end{aligned}$};
+
+\node[note, anchor=north] at (2.65,-3.92)
+  {priors on regression parameters not shown};

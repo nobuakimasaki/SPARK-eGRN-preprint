@@ -1,0 +1,109 @@
+% Figure 1, panel D: the graph prior, main-paper eq (graph_prior). A small graph
+% with its edges coloured by the evidence class of the pair they occupy, and the
+% prior written out beneath it. Every ordered pair is an edge of D independently
+% with the edge probability of its own class, so what the picture has to show is that
+% the class travels with the pair, not with the node.
+%
+% The graph is deliberately untyped: no TFs, enhancers or genes, and no node
+% labels. The graph prior does not depend on what the nodes are, only on which
+% class each pair falls in, and typing the nodes would import a constraint the
+% prior does not have. Panel C makes the same choice for the same reason. The
+% layout nonetheless survives a typed reading -- two nodes per column, and the
+% classes on the edges fix the columns as TFs, enhancers and genes -- so a reader
+% who carries panel B's sources over to this panel finds every drawn pair
+% legitimate rather than having to un-type the drawing first.
+%
+% Two permitted pairs are drawn dashed and absent. Without them the panel shows
+% only the e_ij = 1 half of the prior, and the (1 - rho) factors in the equation
+% would have nothing in the picture answering to them. One is baseline and one
+% carries evidence: with only the baseline pair dashed the picture would say that
+% a pair a source supports is an edge, which is exactly what SPARK does not
+% assume. rho_k is a probability and not a rule, and calibrating it is the point.
+%
+% Source 4 carries two edges rather than one. With a single edge per class the
+% picture reads as though a class were a pair, and the one thing the graph prior
+% has to say is the opposite: the class travels with the pair, and every pair in a
+% class shares that class's one probability. Two edges in the same colour say it, and the
+% rho_4 squared in the equation is what it costs there.
+%
+% The two notes under the graph are drawn rather than left to the caption, since
+% they are what makes the equation readable off the picture: what the dashed pairs
+% mean, and that every pair not drawn is forbidden. The second is not decoration:
+% rho_{-1} = 0, so a forbidden pair contributes (1-0)^1 = 1 and drops out, which is
+% what makes the eight factors below the whole product rather than a selection.
+%
+% Deliberately NOT here: the conjugate conditional rho_k | D. That is a
+% consequence of the model rather than part of its specification, and it is the
+% Gibbs step of the sampler, so it sits in the MCMC band between the model row
+% and the output. Panel E carries the Beta priors on the class edge probabilities.
+%
+% Colour means evidence class everywhere in this figure, so the drawn edges take
+% one colour each, baseline included.
+% Local origin is the panel's top-left corner. Panel size 5.25 x 4.35.
+\draw[panel] (0,0) rectangle (5.25,-4.35);
+\node[ttl] at (0.15,-0.12) {D\quad Graph prior};
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% A small graph, its edges coloured by the evidence class of the pair
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{scope}[shift={(0,0)}]
+  \coordinate (ga) at (0.85,-1.18);   % supported by sources 1 and 2
+  \coordinate (gb) at (0.85,-2.38);
+  \coordinate (gc) at (2.62,-1.33);   % the middle node the sources support
+  \coordinate (gd) at (2.62,-2.23);   % reached only by baseline pairs
+  \coordinate (ge) at (4.40,-1.18);
+  \coordinate (gf) at (4.40,-2.38);
+
+  % The two permitted pairs that are not edges of D, each drawn in its own class's
+  % colour rather than a neutral grey: that is what makes the (1 - rho) factors in
+  % the equation below readable off the picture. Arrowheaded like the edges, since
+  % each stands for one ordered pair and not for the two between that pair of
+  % nodes. Without the head a reader may read one as both, and the equation would
+  % owe them (1 - rho) squared rather than once.
+  \draw[->, clsBase, dashed, dash pattern=on 1.4pt off 1.2pt, line width=0.9pt,
+        shorten >=4.2pt, shorten <=4.2pt] (gb) -- (gd);
+  \draw[->, clsSrc3, dashed, dash pattern=on 1.4pt off 1.2pt, line width=0.9pt,
+        shorten >=4.2pt, shorten <=4.2pt] (gd) -- (ge);
+
+  % The edges of D. The two baseline pairs sit on the same second middle node, one
+  % an edge and one not: the baseline class is the permitted pairs that no source
+  % supports, and putting both on one node says that rho_0 is what decides between
+  % them.
+  \draw[->, clsBase, line width=1.1pt, shorten >=4.2pt, shorten <=4.2pt] (ga) -- (gd);
+  \draw[->, clsSrc1, line width=1.1pt, shorten >=4.2pt, shorten <=4.2pt] (ga) -- (gc);
+  \draw[->, clsSrc2, line width=1.1pt, shorten >=4.2pt, shorten <=4.2pt] (gb) -- (gc);
+  \draw[->, clsSrc3, line width=1.1pt, shorten >=4.2pt, shorten <=4.2pt] (gc) -- (ge);
+  \draw[->, clsSrc4, line width=1.1pt, shorten >=4.2pt, shorten <=4.2pt] (gc) -- (gf);
+  \draw[->, clsSrc4, line width=1.1pt, shorten >=4.2pt, shorten <=4.2pt] (gd) -- (gf);
+
+  \foreach \n in {ga,gb,gc,gd,ge,gf}{
+    \draw[fill=white, draw=black!45, line width=0.6pt] (\n) circle (0.135);
+  }
+
+  % Clear of the lower nodes, which sit at -2.38 with radius 0.135.
+  \node[note, text=black!55] at (2.625,-2.78) {dashed: permitted, not an edge};
+  \node[note, text=black!55] at (2.625,-3.02) {pairs not drawn: forbidden};
+\end{scope}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% The prior, evaluated for the graph above rather than stated in general
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Each rho is set in its own class colour, so the factor a reader is looking at
+% names the edge it came from without the panel having to label the edges too.
+% The baseline is mixed toward black first: at #BFC6D0 it reads as a line but
+% not as type.
+% Set on two lines: with the second dashed pair and the squared factor the product
+% runs about 5.5 cm at \scriptsize, wider than the 5.25 cm panel. The break is
+% after the edges, so the first line is the pairs that are edges and the second
+% the pairs that are not.
+\node[anchor=north, inner sep=0pt] at (2.625,-3.26) {\scriptsize $
+  \begin{aligned}
+    P(\mathcal{D} \mid \boldsymbol{\rho}) &\propto
+      \textcolor{clsBase!55!black}{\rho_0}\,
+      \textcolor{clsSrc1}{\rho_1}\,
+      \textcolor{clsSrc2}{\rho_2}\,
+      \textcolor{clsSrc3}{\rho_3}\,
+      \textcolor{clsSrc4}{\rho_4^2}\\[2pt]
+    &\quad\times \bigl(1 - \textcolor{clsBase!55!black}{\rho_0}\bigr)
+      \bigl(1 - \textcolor{clsSrc3}{\rho_3}\bigr)
+  \end{aligned}$};
